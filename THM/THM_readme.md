@@ -1,1 +1,1 @@
-[TryHackMe](tryhackme.com)
+Link ke [TryHackMe](https://tryhackme.com/)
