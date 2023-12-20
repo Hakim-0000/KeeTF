@@ -1,0 +1,10 @@
+# Nmap 7.94SVN scan initiated Mon Dec  4 11:26:38 2023 as: nmap -A -p20212 -oN zcan20212 10.10.119.223
+Nmap scan report for 10.10.119.223
+Host is up (0.22s latency).
+
+PORT      STATE SERVICE VERSION
+20212/tcp open  telnet  Linux telnetd
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Dec  4 11:26:48 2023 -- 1 IP address (1 host up) scanned in 10.18 seconds

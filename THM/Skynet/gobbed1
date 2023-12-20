@@ -1,0 +1,26 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.114.64/45kra24zxs28v3yd/administrator
+[+] Method:                  GET
+[+] Threads:                 70
+[+] Wordlist:                /usr/share/wordlists/dirb/big.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+[2K/.htaccess            (Status: 403) [Size: 277]
+[2K/.htpasswd            (Status: 403) [Size: 277]
+[2K/alerts               (Status: 301) [Size: 344] [--> http://10.10.114.64/45kra24zxs28v3yd/administrator/alerts/]
+[2K/classes              (Status: 301) [Size: 345] [--> http://10.10.114.64/45kra24zxs28v3yd/administrator/classes/]
+[2K/components           (Status: 301) [Size: 348] [--> http://10.10.114.64/45kra24zxs28v3yd/administrator/components/]
+[2K/js                   (Status: 301) [Size: 340] [--> http://10.10.114.64/45kra24zxs28v3yd/administrator/js/]
+[2K/media                (Status: 301) [Size: 343] [--> http://10.10.114.64/45kra24zxs28v3yd/administrator/media/]
+[2K/templates            (Status: 301) [Size: 347] [--> http://10.10.114.64/45kra24zxs28v3yd/administrator/templates/]
+
+===============================================================
+Finished
+===============================================================

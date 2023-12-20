@@ -1,0 +1,25 @@
+# Nmap 7.94SVN scan initiated Sun Dec  3 12:27:36 2023 as: nmap -A -Pn -oN zcan 10.10.31.34
+Nmap scan report for 10.10.31.34
+Host is up (0.21s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE       VERSION
+3389/tcp open  ms-wbt-server Microsoft Terminal Services
+| rdp-ntlm-info: 
+|   Target_Name: AOC-DAY9
+|   NetBIOS_Domain_Name: AOC-DAY9
+|   NetBIOS_Computer_Name: AOC-DAY9
+|   DNS_Domain_Name: aoc-day9
+|   DNS_Computer_Name: aoc-day9
+|   Product_Version: 10.0.17763
+|_  System_Time: 2023-12-03T05:28:14+00:00
+|_ssl-date: 2023-12-03T05:28:18+00:00; -2s from scanner time.
+| ssl-cert: Subject: commonName=aoc-day9
+| Not valid before: 2023-12-02T05:27:03
+|_Not valid after:  2024-06-02T05:27:03
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+|_clock-skew: mean: -1s, deviation: 0s, median: -2s
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Dec  3 12:28:20 2023 -- 1 IP address (1 host up) scanned in 44.49 seconds

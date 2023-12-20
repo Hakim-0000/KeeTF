@@ -1,0 +1,17 @@
+# Nmap 7.94SVN scan initiated Fri Dec  1 14:01:56 2023 as: nmap -A -Pn -oN zcan 10.10.147.238
+Nmap scan report for 10.10.147.238
+Host is up (0.21s latency).
+Not shown: 998 closed tcp ports (conn-refused)
+PORT      STATE SERVICE VERSION
+80/tcp    open  http    Apache httpd 2.4.29 ((Ubuntu))
+|_http-server-header: Apache/2.4.29 (Ubuntu)
+65000/tcp open  http    Apache httpd 2.4.29 ((Ubuntu))
+|_http-server-header: Apache/2.4.29 (Ubuntu)
+|_http-title: Light Cycle
+| http-cookie-flags: 
+|   /: 
+|     PHPSESSID: 
+|_      httponly flag not set
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Dec  1 14:03:36 2023 -- 1 IP address (1 host up) scanned in 100.19 seconds

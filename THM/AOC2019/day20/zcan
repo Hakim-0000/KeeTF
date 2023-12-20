@@ -1,0 +1,14 @@
+# Nmap 7.94SVN scan initiated Sun Nov 26 09:45:29 2023 as: nmap -sC -sV -Pn -oN zcan 10.10.27.40
+Nmap scan report for 10.10.27.40
+Host is up (0.20s latency).
+Not shown: 999 closed tcp ports (conn-refused)
+PORT     STATE SERVICE VERSION
+4567/tcp open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.8 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 36:a5:78:51:d8:ad:67:d4:09:a6:e0:77:55:c1:4a:c0 (RSA)
+|   256 88:fe:e2:90:cd:a0:04:ae:26:61:0a:5f:24:2b:e6:5e (ECDSA)
+|_  256 3d:d3:b5:19:6d:59:7e:ec:79:47:72:80:3b:79:1f:f3 (ED25519)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Nov 26 09:46:06 2023 -- 1 IP address (1 host up) scanned in 36.67 seconds

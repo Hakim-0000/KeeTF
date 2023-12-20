@@ -1,0 +1,13 @@
+# Nmap 7.94SVN scan initiated Mon Dec  4 11:29:38 2023 as: nmap -A -Pn -oN zcan 10.10.87.245
+Nmap scan report for 10.10.87.245
+Host is up (0.22s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH for_Windows_7.7 (protocol 2.0)
+| ssh-hostkey: 
+|   2048 2b:c5:31:04:b7:92:68:57:ac:3b:92:18:42:7b:c9:01 (RSA)
+|   256 6c:ad:62:67:ad:1b:24:5d:d5:75:e1:07:1a:9a:69:29 (ECDSA)
+|_  256 19:2f:29:26:a3:fb:37:21:4a:7b:7a:7b:de:e0:4f:12 (ED25519)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Dec  4 11:30:47 2023 -- 1 IP address (1 host up) scanned in 69.81 seconds

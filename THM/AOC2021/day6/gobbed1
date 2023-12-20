@@ -1,0 +1,32 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.146.35
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Extensions:              html,php
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+[2K/index.php            (Status: 302) [Size: 1146] [--> index.php?err=error.txt]
+[2K/.html                (Status: 403) [Size: 284]
+[2K/img                  (Status: 301) [Size: 311] [--> http://10.10.146.35/img/]
+[2K/login.php            (Status: 200) [Size: 1758]
+[2K/css                  (Status: 301) [Size: 311] [--> http://10.10.146.35/css/]
+[2K/includes             (Status: 301) [Size: 316] [--> http://10.10.146.35/includes/]
+[2K/js                   (Status: 301) [Size: 310] [--> http://10.10.146.35/js/]
+[2K/logout.php           (Status: 302) [Size: 1] [--> index.php?err=error.txt]
+[2K/logs.php             (Status: 302) [Size: 0] [--> login.php]
+[2K/manage.php           (Status: 302) [Size: 0] [--> login.php]
+[2K/reset.php            (Status: 302) [Size: 0] [--> login.php]
+[2K/challenges           (Status: 502) [Size: 182]
+[2K/challenges.php       (Status: 502) [Size: 182]
+[2K/challenges.html      (Status: 502) [Size: 182]
+[2K/challengestats       (Status: 502) [Size: 182]
+[2K/challengestats.php   (Status: 502) [Size: 182]
+[2K/challengestats.html  (Status: 502) [Size: 182]

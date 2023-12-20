@@ -1,0 +1,17 @@
+# Nmap 7.94SVN scan initiated Sun Nov 26 06:43:32 2023 as: nmap -sC -sV -Pn -oN zcan 10.10.99.0
+Nmap scan report for 10.10.99.0
+Host is up (0.24s latency).
+Not shown: 998 closed tcp ports (conn-refused)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.8 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 34:d2:f6:c1:e7:db:68:7e:c9:15:f4:28:43:c8:95:7b (RSA)
+|   256 0e:c3:5b:e1:00:60:13:ed:b5:92:40:cc:88:3d:d7:6c (ECDSA)
+|_  256 ea:c8:17:04:e2:65:6a:4d:d3:70:d9:bb:7b:65:58:94 (ED25519)
+80/tcp open  http    Node.js Express framework
+| http-title: Hydra Challenge
+|_Requested resource was /login
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Nov 26 06:44:42 2023 -- 1 IP address (1 host up) scanned in 69.95 seconds

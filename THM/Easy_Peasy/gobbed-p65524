@@ -1,0 +1,33 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.75.142:65524/n0th1ng3ls3m4tt3r
+[+] Method:                  GET
+[+] Threads:                 50
+[+] Wordlist:                /usr/share/wordlists/dirb/common.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Extensions:              html,php,js,txt
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+[2K/.html                (Status: 403) [Size: 280]
+[2K/.hta                 (Status: 403) [Size: 280]
+[2K/.hta.html            (Status: 403) [Size: 280]
+[2K/.hta.php             (Status: 403) [Size: 280]
+[2K/.hta.js              (Status: 403) [Size: 280]
+[2K/.htaccess            (Status: 403) [Size: 280]
+[2K/.hta.txt             (Status: 403) [Size: 280]
+[2K/.htaccess.html       (Status: 403) [Size: 280]
+[2K/.htaccess.txt        (Status: 403) [Size: 280]
+[2K/.htaccess.php        (Status: 403) [Size: 280]
+[2K/.htaccess.js         (Status: 403) [Size: 280]
+[2K/.htpasswd            (Status: 403) [Size: 280]
+[2K/.htpasswd.txt        (Status: 403) [Size: 280]
+[2K/.htpasswd.html       (Status: 403) [Size: 280]
+[2K/.htpasswd.js         (Status: 403) [Size: 280]
+[2K/.htpasswd.php        (Status: 403) [Size: 280]
+[2K/index.html           (Status: 200) [Size: 384]
+[2K/index.html           (Status: 200) [Size: 384]

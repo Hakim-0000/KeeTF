@@ -1,0 +1,23 @@
+# Nmap 7.94SVN scan initiated Sun Dec  3 23:21:13 2023 as: nmap -A -Pn -oN zcan 10.10.159.200
+Nmap scan report for 10.10.159.200
+Host is up (0.21s latency).
+Not shown: 998 closed tcp ports (conn-refused)
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.9 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 4a:28:b1:b4:23:94:ac:db:90:24:02:78:28:cf:55:eb (RSA)
+|   256 05:d9:31:ea:42:78:67:20:2d:74:78:4e:e2:6e:15:c5 (ECDSA)
+|_  256 8a:57:3b:7e:c9:da:35:b5:15:56:10:ad:c1:b0:50:2f (ED25519)
+8000/tcp open  http    Apache httpd 2.4.57 ((Debian))
+| http-title: Hack the Server Door | TryHackMe
+|_Requested resource was pin.php
+|_http-open-proxy: Proxy might be redirecting requests
+|_http-server-header: Apache/2.4.57 (Debian)
+| http-cookie-flags: 
+|   /: 
+|     PHPSESSID: 
+|_      httponly flag not set
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Dec  3 23:22:08 2023 -- 1 IP address (1 host up) scanned in 54.24 seconds

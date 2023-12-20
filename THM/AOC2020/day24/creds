@@ -1,0 +1,14 @@
+menemukan creds setelah revshell di /var/www/TheGrid/includes/dbauth.php
+```
+	$dbaddr = "localhost";
+        $dbuser = "tron";
+        $dbpass = "IFightForTheUsers";
+        $database = "tron";
+```
+tron:IFightForTheUsers
+
+
+
+menemukan creds setelah connect ke db `mysql --user=tron --password=IFightForTheUsers`
+flynn:edc621628f6d19a13a00fd683f5e3ff7
+flynn:@computer@

@@ -1,0 +1,1 @@
+{"took":13,"timed_out":false,"_shards":{"total":6,"successful":6,"skipped":0,"failed":0},"hits":{"total":1,"max_score":2.0136302,"hits":[{"_index":"messages","_type":"_doc","_id":"73","_score":2.0136302,"_source":{"sender": "mary", "receiver": "wendy", "message": "hey, can you access my dev account for me. My username is l33tperson and my password is 9Qs58Ol3AXkMWLxiEyUyyf"}}]}}

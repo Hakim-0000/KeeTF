@@ -1,0 +1,25 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.53.7/squirrelmail
+[+] Method:                  GET
+[+] Threads:                 50
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+[2K/themes               (Status: 301) [Size: 322] [--> http://10.10.53.7/squirrelmail/themes/]
+[2K/images               (Status: 301) [Size: 322] [--> http://10.10.53.7/squirrelmail/images/]
+[2K/help                 (Status: 403) [Size: 275]
+[2K/plugins              (Status: 301) [Size: 323] [--> http://10.10.53.7/squirrelmail/plugins/]
+[2K/src                  (Status: 301) [Size: 319] [--> http://10.10.53.7/squirrelmail/src/]
+[2K/include              (Status: 403) [Size: 275]
+[2K/config               (Status: 301) [Size: 322] [--> http://10.10.53.7/squirrelmail/config/]
+[2K/class                (Status: 403) [Size: 275]
+[2K/functions            (Status: 403) [Size: 275]
+[2K/po                   (Status: 403) [Size: 275]
+[2K/locale               (Status: 403) [Size: 275]

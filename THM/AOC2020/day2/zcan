@@ -1,0 +1,13 @@
+# Nmap 7.94SVN scan initiated Sun Nov 26 23:00:34 2023 as: nmap -Pn -A -oN zcan 10.10.101.166
+Nmap scan report for 10.10.101.166
+Host is up (0.20s latency).
+Not shown: 983 filtered tcp ports (no-response), 14 filtered tcp ports (host-unreach)
+PORT     STATE  SERVICE    VERSION
+22/tcp   closed ssh
+80/tcp   open   http       Apache httpd 2.4.37 ((centos))
+|_http-server-header: Apache/2.4.37 (centos)
+|_http-title: Protection
+9090/tcp closed zeus-admin
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Nov 26 23:01:12 2023 -- 1 IP address (1 host up) scanned in 37.92 seconds

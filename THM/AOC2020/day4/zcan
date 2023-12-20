@@ -1,0 +1,11 @@
+# Nmap 7.94SVN scan initiated Mon Nov 27 18:45:34 2023 as: nmap -Pn -A -oN zcan 10.10.3.29
+Nmap scan report for 10.10.3.29
+Host is up (0.25s latency).
+Not shown: 999 closed tcp ports (conn-refused)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Apache httpd 2.4.29 ((Ubuntu))
+|_http-server-header: Apache/2.4.29 (Ubuntu)
+|_http-title: Site doesn't have a title (text/html).
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Nov 27 18:46:36 2023 -- 1 IP address (1 host up) scanned in 62.29 seconds

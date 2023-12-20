@@ -1,0 +1,25 @@
+# Nmap 7.94SVN scan initiated Fri Dec  1 13:05:44 2023 as: nmap -A -Pn -oN zcan 10.10.32.174
+Nmap scan report for 10.10.32.174
+Host is up (0.22s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE       VERSION
+3389/tcp open  ms-wbt-server Microsoft Terminal Services
+| ssl-cert: Subject: commonName=elfstation4
+| Not valid before: 2023-11-30T06:05:20
+|_Not valid after:  2024-05-31T06:05:20
+|_ssl-date: 2023-12-01T06:06:23+00:00; +5s from scanner time.
+| rdp-ntlm-info: 
+|   Target_Name: ELFSTATION4
+|   NetBIOS_Domain_Name: ELFSTATION4
+|   NetBIOS_Computer_Name: ELFSTATION4
+|   DNS_Domain_Name: elfstation4
+|   DNS_Computer_Name: elfstation4
+|   Product_Version: 10.0.17763
+|_  System_Time: 2023-12-01T06:06:18+00:00
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+|_clock-skew: mean: 4s, deviation: 0s, median: 3s
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Dec  1 13:06:18 2023 -- 1 IP address (1 host up) scanned in 34.78 seconds

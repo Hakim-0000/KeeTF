@@ -1,0 +1,17 @@
+# Nmap 7.94SVN scan initiated Sat Dec  2 13:06:38 2023 as: nmap -A -Pn -oN zcan 10.10.125.134
+Nmap scan report for 10.10.125.134
+Host is up (0.20s latency).
+Not shown: 998 closed tcp ports (conn-refused)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.2 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 20:7b:54:5d:fb:55:45:f9:bf:23:c9:52:2d:ac:c8:c4 (RSA)
+|   256 e7:6a:14:dc:49:a1:ab:84:a7:7e:5b:b7:df:43:67:4e (ECDSA)
+|_  256 8f:0e:c0:92:cd:fc:04:41:70:4d:60:05:c4:14:47:30 (ED25519)
+80/tcp open  http    nginx 1.18.0 (Ubuntu)
+|_http-title: Elf Forum - Home
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Dec  2 13:07:31 2023 -- 1 IP address (1 host up) scanned in 53.00 seconds

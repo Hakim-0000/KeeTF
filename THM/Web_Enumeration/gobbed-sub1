@@ -1,0 +1,20 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://mysubdomain.webenum.thm
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+[2K/images               (Status: 301) [Size: 335] [--> http://mysubdomain.webenum.thm/images/]
+[2K/public               (Status: 301) [Size: 335] [--> http://mysubdomain.webenum.thm/public/]
+[2K/css                  (Status: 301) [Size: 332] [--> http://mysubdomain.webenum.thm/css/]
+[2K/js                   (Status: 301) [Size: 331] [--> http://mysubdomain.webenum.thm/js/]
+[2K/Changes              (Status: 301) [Size: 336] [--> http://mysubdomain.webenum.thm/Changes/]
+[2K/VIDEO                (Status: 301) [Size: 334] [--> http://mysubdomain.webenum.thm/VIDEO/]

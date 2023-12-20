@@ -1,0 +1,55 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:             http://webenum.thm
+[+] Method:          GET
+[+] Threads:         10
+[+] Wordlist:        /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-20000.txt
+[+] User Agent:      gobuster/3.6
+[+] Timeout:         10s
+[+] Append Domain:   false
+===============================================================
+Starting gobuster in VHOST enumeration mode
+===============================================================
+[2KFound: 1 Status: 400 [Size: 424]
+[2KFound: 11192521404255 Status: 400 [Size: 424]
+[2KFound: 11192521403954 Status: 400 [Size: 424]
+[2KFound: gc._msdcs Status: 400 [Size: 424]
+[2KFound: 2 Status: 400 [Size: 424]
+[2KFound: 11285521401250 Status: 400 [Size: 424]
+[2KFound: 2012 Status: 400 [Size: 424]
+[2KFound: 11290521402560 Status: 400 [Size: 424]
+[2KFound: 123 Status: 400 [Size: 424]
+[2KFound: 2011 Status: 400 [Size: 424]
+[2KFound: 3 Status: 400 [Size: 424]
+[2KFound: 4 Status: 400 [Size: 424]
+[2KFound: 2013 Status: 400 [Size: 424]
+[2KFound: 2010 Status: 400 [Size: 424]
+[2KFound: 911 Status: 400 [Size: 424]
+[2KFound: 11 Status: 400 [Size: 424]
+[2KFound: 24 Status: 400 [Size: 424]
+[2KFound: 10 Status: 400 [Size: 424]
+[2KFound: 7 Status: 400 [Size: 424]
+[2KFound: 99 Status: 400 [Size: 424]
+[2KFound: 2009 Status: 400 [Size: 424]
+[2KFound: www.1 Status: 400 [Size: 424]
+[2KFound: 50 Status: 400 [Size: 424]
+[2KFound: 12 Status: 400 [Size: 424]
+[2KFound: 20 Status: 400 [Size: 424]
+[2KFound: 2008 Status: 400 [Size: 424]
+[2KFound: 25 Status: 400 [Size: 424]
+[2KFound: 15 Status: 400 [Size: 424]
+[2KFound: 5 Status: 400 [Size: 424]
+[2KFound: www.2 Status: 400 [Size: 424]
+[2KFound: 13 Status: 400 [Size: 424]
+[2KFound: 100 Status: 400 [Size: 424]
+[2KFound: 44 Status: 400 [Size: 424]
+[2KFound: 54 Status: 400 [Size: 424]
+[2KFound: 9 Status: 400 [Size: 424]
+[2KFound: 70 Status: 400 [Size: 424]
+[2KFound: 01 Status: 400 [Size: 424]
+[2KFound: 16 Status: 400 [Size: 424]
+[2KFound: 39 Status: 400 [Size: 424]
+[2KFound: 6 Status: 400 [Size: 424]
+[2KFound: www.123 Status: 400 [Size: 424]

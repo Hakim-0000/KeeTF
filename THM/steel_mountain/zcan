@@ -1,0 +1,53 @@
+# Nmap 7.94SVN scan initiated Fri Nov 24 13:40:10 2023 as: nmap -A -Pn -oN zcan 10.10.56.46
+Nmap scan report for 10.10.56.46
+Host is up (0.22s latency).
+Not shown: 989 closed tcp ports (conn-refused)
+PORT      STATE SERVICE            VERSION
+80/tcp    open  http               Microsoft IIS httpd 8.5
+|_http-server-header: Microsoft-IIS/8.5
+| http-methods: 
+|_  Potentially risky methods: TRACE
+|_http-title: Site doesn't have a title (text/html).
+135/tcp   open  msrpc              Microsoft Windows RPC
+139/tcp   open  netbios-ssn        Microsoft Windows netbios-ssn
+445/tcp   open  microsoft-ds       Microsoft Windows Server 2008 R2 - 2012 microsoft-ds
+3389/tcp  open  ssl/ms-wbt-server?
+|_ssl-date: 2023-11-24T06:42:25+00:00; +4s from scanner time.
+| ssl-cert: Subject: commonName=steelmountain
+| Not valid before: 2023-11-23T06:38:05
+|_Not valid after:  2024-05-24T06:38:05
+| rdp-ntlm-info: 
+|   Target_Name: STEELMOUNTAIN
+|   NetBIOS_Domain_Name: STEELMOUNTAIN
+|   NetBIOS_Computer_Name: STEELMOUNTAIN
+|   DNS_Domain_Name: steelmountain
+|   DNS_Computer_Name: steelmountain
+|   Product_Version: 6.3.9600
+|_  System_Time: 2023-11-24T06:42:19+00:00
+8080/tcp  open  http               HttpFileServer httpd 2.3
+|_http-title: HFS /
+|_http-server-header: HFS 2.3
+49152/tcp open  msrpc              Microsoft Windows RPC
+49153/tcp open  msrpc              Microsoft Windows RPC
+49154/tcp open  msrpc              Microsoft Windows RPC
+49155/tcp open  msrpc              Microsoft Windows RPC
+49156/tcp open  msrpc              Microsoft Windows RPC
+Service Info: OSs: Windows, Windows Server 2008 R2 - 2012; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb-security-mode: 
+|   account_used: guest
+|   authentication_level: user
+|   challenge_response: supported
+|_  message_signing: disabled (dangerous, but default)
+|_nbstat: NetBIOS name: STEELMOUNTAIN, NetBIOS user: <unknown>, NetBIOS MAC: 02:a9:bc:0a:83:b7 (unknown)
+| smb2-time: 
+|   date: 2023-11-24T06:42:19
+|_  start_date: 2023-11-24T06:37:53
+| smb2-security-mode: 
+|   3:0:2: 
+|_    Message signing enabled but not required
+|_clock-skew: mean: 3s, deviation: 0s, median: 2s
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Nov 24 13:42:22 2023 -- 1 IP address (1 host up) scanned in 131.51 seconds
