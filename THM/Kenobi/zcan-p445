@@ -1,0 +1,26 @@
+# Nmap 7.80 scan initiated Wed Nov 22 11:16:52 2023 as: nmap -A -p445 -oN zcan-p445 10.10.175.220
+Nmap scan report for 10.10.175.220
+Host is up (0.22s latency).
+
+PORT    STATE SERVICE     VERSION
+445/tcp open  netbios-ssn Samba smbd 3.X - 4.X (workgroup: WORKGROUP)
+Service Info: Host: KENOBI
+
+Host script results:
+|_ms-sql-info: ERROR: Script execution failed (use -d to debug)
+|_nbstat: NetBIOS name: KENOBI, NetBIOS user: <unknown>, NetBIOS MAC: <unknown> (unknown)
+|_smb-os-discovery: ERROR: Script execution failed (use -d to debug)
+| smb-security-mode: 
+|   account_used: guest
+|   authentication_level: user
+|   challenge_response: supported
+|_  message_signing: disabled (dangerous, but default)
+| smb2-security-mode: 
+|   2.02: 
+|_    Message signing enabled but not required
+| smb2-time: 
+|   date: 2023-11-22T04:17:00
+|_  start_date: N/A
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed Nov 22 11:17:00 2023 -- 1 IP address (1 host up) scanned in 8.60 seconds

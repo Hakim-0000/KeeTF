@@ -1,4 +1,4 @@
-room [Linux Privesc](https://tryhackme.com/room/linuxprivesc)
+wroom [Linux Privesc](https://tryhackme.com/room/linuxprivesc)
 # Task 1 : Deploy VM
 
 Deploy target. lalu connect ke target menggunakan ssh
