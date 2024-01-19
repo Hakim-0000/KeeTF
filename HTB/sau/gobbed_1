@@ -1,0 +1,141 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://sau.htb:55555
+[+] Method:                  GET
+[+] Threads:                 50
+[+] Wordlist:                /usr/share/wordlists/dirb/common.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Extensions:              php,html,txt
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+[2K/@                    (Status: 400) [Size: 75]
+[2K/@.html               (Status: 400) [Size: 75]
+[2K/@.php                (Status: 400) [Size: 75]
+[2K/@.txt                (Status: 400) [Size: 75]
+[2K/~adm                 (Status: 400) [Size: 75]
+[2K/~adm.php             (Status: 400) [Size: 75]
+[2K/~adm.txt             (Status: 400) [Size: 75]
+[2K/~admin               (Status: 400) [Size: 75]
+[2K/~admin.html          (Status: 400) [Size: 75]
+[2K/~admin.php           (Status: 400) [Size: 75]
+[2K/~adm.html            (Status: 400) [Size: 75]
+[2K/~administrator       (Status: 400) [Size: 75]
+[2K/~admin.txt           (Status: 400) [Size: 75]
+[2K/~administrator.html  (Status: 400) [Size: 75]
+[2K/~administrator.php   (Status: 400) [Size: 75]
+[2K/~amanda.php          (Status: 400) [Size: 75]
+[2K/~administrator.txt   (Status: 400) [Size: 75]
+[2K/~amanda              (Status: 400) [Size: 75]
+[2K/~apache              (Status: 400) [Size: 75]
+[2K/~amanda.txt          (Status: 400) [Size: 75]
+[2K/~apache.txt          (Status: 400) [Size: 75]
+[2K/~apache.php          (Status: 400) [Size: 75]
+[2K/~apache.html         (Status: 400) [Size: 75]
+[2K/~bin.php             (Status: 400) [Size: 75]
+[2K/~bin.txt             (Status: 400) [Size: 75]
+[2K/~bin                 (Status: 400) [Size: 75]
+[2K/~bin.html            (Status: 400) [Size: 75]
+[2K/~ftp                 (Status: 400) [Size: 75]
+[2K/~guest.html          (Status: 400) [Size: 75]
+[2K/~guest.txt           (Status: 400) [Size: 75]
+[2K/~guest.php           (Status: 400) [Size: 75]
+[2K/~ftp.txt             (Status: 400) [Size: 75]
+[2K/~amanda.html         (Status: 400) [Size: 75]
+[2K/~ftp.php             (Status: 400) [Size: 75]
+[2K/~ftp.html            (Status: 400) [Size: 75]
+[2K/~guest               (Status: 400) [Size: 75]
+[2K/~http                (Status: 400) [Size: 75]
+[2K/~http.html           (Status: 400) [Size: 75]
+[2K/~http.txt            (Status: 400) [Size: 75]
+[2K/~httpd               (Status: 400) [Size: 75]
+[2K/~http.php            (Status: 400) [Size: 75]
+[2K/~httpd.html          (Status: 400) [Size: 75]
+[2K/~httpd.php           (Status: 400) [Size: 75]
+[2K/~log                 (Status: 400) [Size: 75]
+[2K/~log.html            (Status: 400) [Size: 75]
+[2K/~logs                (Status: 400) [Size: 75]
+[2K/~logs.html           (Status: 400) [Size: 75]
+[2K/~logs.php            (Status: 400) [Size: 75]
+[2K/~httpd.txt           (Status: 400) [Size: 75]
+[2K/~logs.txt            (Status: 400) [Size: 75]
+[2K/~log.php             (Status: 400) [Size: 75]
+[2K/~log.txt             (Status: 400) [Size: 75]
+[2K/~lp                  (Status: 400) [Size: 75]
+[2K/~lp.php              (Status: 400) [Size: 75]
+[2K/~lp.html             (Status: 400) [Size: 75]
+[2K/~mail.txt            (Status: 400) [Size: 75]
+[2K/~nobody              (Status: 400) [Size: 75]
+[2K/~mail                (Status: 400) [Size: 75]
+[2K/~lp.txt              (Status: 400) [Size: 75]
+[2K/~mail.html           (Status: 400) [Size: 75]
+[2K/~mail.php            (Status: 400) [Size: 75]
+[2K/~nobody.html         (Status: 400) [Size: 75]
+[2K/~nobody.php          (Status: 400) [Size: 75]
+[2K/~operator            (Status: 400) [Size: 75]
+[2K/~nobody.txt          (Status: 400) [Size: 75]
+[2K/~operator.html       (Status: 400) [Size: 75]
+[2K/~operator.txt        (Status: 400) [Size: 75]
+[2K/~operator.php        (Status: 400) [Size: 75]
+[2K/~root                (Status: 400) [Size: 75]
+[2K/~root.php            (Status: 400) [Size: 75]
+[2K/~root.html           (Status: 400) [Size: 75]
+[2K/~root.txt            (Status: 400) [Size: 75]
+[2K/~sys                 (Status: 400) [Size: 75]
+[2K/~sys.html            (Status: 400) [Size: 75]
+[2K/~sys.txt             (Status: 400) [Size: 75]
+[2K/~sysadm              (Status: 400) [Size: 75]
+[2K/~sys.php             (Status: 400) [Size: 75]
+[2K/~sysadm.php          (Status: 400) [Size: 75]
+[2K/~sysadmin            (Status: 400) [Size: 75]
+[2K/~sysadm.html         (Status: 400) [Size: 75]
+[2K/~sysadm.txt          (Status: 400) [Size: 75]
+[2K/~sysadmin.php        (Status: 400) [Size: 75]
+[2K/~sysadmin.html       (Status: 400) [Size: 75]
+[2K/~sysadmin.txt        (Status: 400) [Size: 75]
+[2K/~test                (Status: 400) [Size: 75]
+[2K/~test.txt            (Status: 400) [Size: 75]
+[2K/~test.php            (Status: 400) [Size: 75]
+[2K/~tmp.php             (Status: 400) [Size: 75]
+[2K/~tmp.html            (Status: 400) [Size: 75]
+[2K/~tmp                 (Status: 400) [Size: 75]
+[2K/~test.html           (Status: 400) [Size: 75]
+[2K/~tmp.txt             (Status: 400) [Size: 75]
+[2K/~webmaster.php       (Status: 400) [Size: 75]
+[2K/~user.html           (Status: 400) [Size: 75]
+[2K/~user                (Status: 400) [Size: 75]
+[2K/~user.php            (Status: 400) [Size: 75]
+[2K/~www                 (Status: 400) [Size: 75]
+[2K/~user.txt            (Status: 400) [Size: 75]
+[2K/~webmaster.html      (Status: 400) [Size: 75]
+[2K/~webmaster.txt       (Status: 400) [Size: 75]
+[2K/~webmaster           (Status: 400) [Size: 75]
+[2K/~www.php             (Status: 400) [Size: 75]
+[2K/~www.html            (Status: 400) [Size: 75]
+[2K/~www.txt             (Status: 400) [Size: 75]
+[2K/baskets              (Status: 401) [Size: 0]
+[2K/Documents and Settings.html (Status: 400) [Size: 75]
+[2K/Documents and Settings.txt (Status: 400) [Size: 75]
+[2K/Documents and Settings (Status: 400) [Size: 75]
+[2K/Documents and Settings.php (Status: 400) [Size: 75]
+[2K/lost+found           (Status: 400) [Size: 75]
+[2K/lost+found.php       (Status: 400) [Size: 75]
+[2K/lost+found.txt       (Status: 400) [Size: 75]
+[2K/lost+found.html      (Status: 400) [Size: 75]
+[2K/Program Files        (Status: 400) [Size: 75]
+[2K/Program Files.html   (Status: 400) [Size: 75]
+[2K/Program Files.php    (Status: 400) [Size: 75]
+[2K/Program Files.txt    (Status: 400) [Size: 75]
+[2K/reports list.html    (Status: 400) [Size: 75]
+[2K/reports list         (Status: 400) [Size: 75]
+[2K/reports list.php     (Status: 400) [Size: 75]
+[2K/reports list.txt     (Status: 400) [Size: 75]
+[2K/web                  (Status: 200) [Size: 8700]
+
+===============================================================
+Finished
+===============================================================

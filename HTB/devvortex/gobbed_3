@@ -1,0 +1,36 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://dev.devvortex.htb
+[+] Method:                  GET
+[+] Threads:                 50
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Extensions:              php,txt
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+[2K/.txt                 (Status: 403) [Size: 162]
+[2K/images               (Status: 301) [Size: 178] [--> http://dev.devvortex.htb/images/]
+[2K/index.php            (Status: 200) [Size: 23221]
+[2K/home                 (Status: 200) [Size: 23221]
+[2K/media                (Status: 301) [Size: 178] [--> http://dev.devvortex.htb/media/]
+[2K/templates            (Status: 301) [Size: 178] [--> http://dev.devvortex.htb/templates/]
+[2K/modules              (Status: 301) [Size: 178] [--> http://dev.devvortex.htb/modules/]
+[2K/plugins              (Status: 301) [Size: 178] [--> http://dev.devvortex.htb/plugins/]
+[2K/includes             (Status: 301) [Size: 178] [--> http://dev.devvortex.htb/includes/]
+[2K/language             (Status: 301) [Size: 178] [--> http://dev.devvortex.htb/language/]
+[2K/components           (Status: 301) [Size: 178] [--> http://dev.devvortex.htb/components/]
+[2K/api                  (Status: 301) [Size: 178] [--> http://dev.devvortex.htb/api/]
+[2K/cache                (Status: 301) [Size: 178] [--> http://dev.devvortex.htb/cache/]
+[2K/libraries            (Status: 301) [Size: 178] [--> http://dev.devvortex.htb/libraries/]
+[2K/robots.txt           (Status: 200) [Size: 764]
+[2K/tmp                  (Status: 301) [Size: 178] [--> http://dev.devvortex.htb/tmp/]
+[2K/layouts              (Status: 301) [Size: 178] [--> http://dev.devvortex.htb/layouts/]
+[2K/administrator        (Status: 301) [Size: 178] [--> http://dev.devvortex.htb/administrator/]
+[2K/configuration.php    (Status: 200) [Size: 0]
+[2K/htaccess.txt         (Status: 200) [Size: 6858]
+[2K/cli                  (Status: 301) [Size: 178] [--> http://dev.devvortex.htb/cli/]

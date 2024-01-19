@@ -1,0 +1,5 @@
+# Dirsearch started Wed Jan 17 15:07:42 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://searcher.htb -t 50
+
+405   153B   http://searcher.htb/search
+403   277B   http://searcher.htb/server-status
+403   277B   http://searcher.htb/server-status/

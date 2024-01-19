@@ -1,0 +1,30 @@
+# Dirsearch started Mon Jan 15 20:10:41 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://atlanta.thm -t 50
+
+403   276B   http://atlanta.thm/.ht_wsr.txt
+403   276B   http://atlanta.thm/.htaccess.bak1
+403   276B   http://atlanta.thm/.htaccess.orig
+403   276B   http://atlanta.thm/.htaccess.sample
+403   276B   http://atlanta.thm/.htaccess.save
+403   276B   http://atlanta.thm/.htaccess_sc
+403   276B   http://atlanta.thm/.htaccessBAK
+403   276B   http://atlanta.thm/.htaccessOLD2
+403   276B   http://atlanta.thm/.htaccess_extra
+403   276B   http://atlanta.thm/.htaccess_orig
+403   276B   http://atlanta.thm/.htaccessOLD
+403   276B   http://atlanta.thm/.html
+403   276B   http://atlanta.thm/.htpasswd_test
+403   276B   http://atlanta.thm/.httr-oauth
+403   276B   http://atlanta.thm/.htm
+403   276B   http://atlanta.thm/.htpasswds
+403   276B   http://atlanta.thm/.php
+200     2KB  http://atlanta.thm/about.html
+301   311B   http://atlanta.thm/assets    -> REDIRECTS TO: http://atlanta.thm/assets/
+200   479B   http://atlanta.thm/assets/
+200     2KB  http://atlanta.thm/contact.html
+200     4KB  http://atlanta.thm/home.html
+200   675B   http://atlanta.thm/readme.md
+200   388B   http://atlanta.thm/readme.txt
+403   276B   http://atlanta.thm/server-status
+403   276B   http://atlanta.thm/server-status/
+200     2KB  http://atlanta.thm/signin.html
+200     2KB  http://atlanta.thm/signup.html

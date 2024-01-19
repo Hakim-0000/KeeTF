@@ -1,0 +1,19 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:             http://analytical.htb
+[+] Method:          GET
+[+] Threads:         50
+[+] Wordlist:        /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-20000.txt
+[+] User Agent:      gobuster/3.6
+[+] Timeout:         10s
+[+] Append Domain:   true
+===============================================================
+Starting gobuster in VHOST enumeration mode
+===============================================================
+[2KFound: data.analytical.htb Status: 200 [Size: 77883]
+
+===============================================================
+Finished
+===============================================================

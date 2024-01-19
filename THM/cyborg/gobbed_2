@@ -1,0 +1,30 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.7.44
+[+] Method:                  GET
+[+] Threads:                 50
+[+] Wordlist:                /usr/share/wordlists/dirb/big.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Extensions:              php,html
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+[2K/.htpasswd.php        (Status: 403) [Size: 275]
+[2K/.htpasswd.html 
+===============================================================
+Finished
+===============================================================
+[2K/.htaccess            (Status: 403) [Size: 275]
+[2K/.htpasswd            (Status: 403) [Size: 275]
+[2K/admin                (Status: 301) [Size: 308] [--> http://10.10.7.44/admin/]
+[2K/etc                  (Status: 301) [Size: 306] [--> http://10.10.7.44/etc/]
+[2K/index.html           (Status: 200) [Size: 11321]
+[2K/server-status        (Status: 403) [Size: 275]
+
+===============================================================
+Finished
+===============================================================

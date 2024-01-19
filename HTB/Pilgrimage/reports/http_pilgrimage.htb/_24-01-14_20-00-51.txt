@@ -1,0 +1,48 @@
+# Dirsearch started Sun Jan 14 20:01:45 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://pilgrimage.htb
+
+403   555B   http://pilgrimage.htb/.git/branches/
+301   169B   http://pilgrimage.htb/.git    -> REDIRECTS TO: http://pilgrimage.htb/.git/
+200     2KB  http://pilgrimage.htb/.git/COMMIT_EDITMSG
+200    73B   http://pilgrimage.htb/.git/description
+200    23B   http://pilgrimage.htb/.git/HEAD
+200    92B   http://pilgrimage.htb/.git/config
+403   555B   http://pilgrimage.htb/.git/hooks/
+403   555B   http://pilgrimage.htb/.git/
+200     4KB  http://pilgrimage.htb/.git/index
+403   555B   http://pilgrimage.htb/.git/info/
+200   240B   http://pilgrimage.htb/.git/info/exclude
+200   195B   http://pilgrimage.htb/.git/logs/HEAD
+403   555B   http://pilgrimage.htb/.git/logs/
+301   169B   http://pilgrimage.htb/.git/logs/refs    -> REDIRECTS TO: http://pilgrimage.htb/.git/logs/refs/
+301   169B   http://pilgrimage.htb/.git/logs/refs/heads    -> REDIRECTS TO: http://pilgrimage.htb/.git/logs/refs/heads/
+200   195B   http://pilgrimage.htb/.git/logs/refs/heads/master
+403   555B   http://pilgrimage.htb/.git/refs/
+301   169B   http://pilgrimage.htb/.git/refs/heads    -> REDIRECTS TO: http://pilgrimage.htb/.git/refs/heads/
+403   555B   http://pilgrimage.htb/.git/objects/
+200    41B   http://pilgrimage.htb/.git/refs/heads/master
+301   169B   http://pilgrimage.htb/.git/refs/tags    -> REDIRECTS TO: http://pilgrimage.htb/.git/refs/tags/
+403   555B   http://pilgrimage.htb/.ht_wsr.txt
+403   555B   http://pilgrimage.htb/.htaccess.bak1
+403   555B   http://pilgrimage.htb/.htaccess.orig
+403   555B   http://pilgrimage.htb/.htaccess.sample
+403   555B   http://pilgrimage.htb/.htaccess.save
+403   555B   http://pilgrimage.htb/.htaccess_extra
+403   555B   http://pilgrimage.htb/.htaccess_orig
+403   555B   http://pilgrimage.htb/.htaccessOLD
+403   555B   http://pilgrimage.htb/.htaccess_sc
+403   555B   http://pilgrimage.htb/.htaccessBAK
+403   555B   http://pilgrimage.htb/.htaccessOLD2
+403   555B   http://pilgrimage.htb/.html
+403   555B   http://pilgrimage.htb/.htm
+403   555B   http://pilgrimage.htb/.htpasswd_test
+403   555B   http://pilgrimage.htb/.httr-oauth
+403   555B   http://pilgrimage.htb/.htpasswds
+301   169B   http://pilgrimage.htb/assets    -> REDIRECTS TO: http://pilgrimage.htb/assets/
+403   555B   http://pilgrimage.htb/assets/
+302     0B   http://pilgrimage.htb/dashboard.php    -> REDIRECTS TO: /login.php
+200     6KB  http://pilgrimage.htb/login.php
+302     0B   http://pilgrimage.htb/logout.php    -> REDIRECTS TO: /
+200     6KB  http://pilgrimage.htb/register.php
+301   169B   http://pilgrimage.htb/tmp    -> REDIRECTS TO: http://pilgrimage.htb/tmp/
+403   555B   http://pilgrimage.htb/tmp/
+403   555B   http://pilgrimage.htb/vendor/

@@ -1,0 +1,2 @@
+echo "3agrSy1CewF9v8ukcSkPSYm3oKUoByUpKG4L" | base58 -d
+THM{17_h45_l3553r_l3773r5}

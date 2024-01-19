@@ -1,0 +1,20 @@
+# Dirsearch started Tue Jan  2 21:01:06 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.186.198/pages -t 50
+
+403   278B   http://10.10.186.198/pages/.htaccess.bak1
+403   278B   http://10.10.186.198/pages/.htaccess.orig
+403   278B   http://10.10.186.198/pages/.htaccess_extra
+403   278B   http://10.10.186.198/pages/.ht_wsr.txt
+403   278B   http://10.10.186.198/pages/.htaccess.sample
+403   278B   http://10.10.186.198/pages/.htaccess_sc
+403   278B   http://10.10.186.198/pages/.htm
+403   278B   http://10.10.186.198/pages/.htpasswds
+403   278B   http://10.10.186.198/pages/.html
+403   278B   http://10.10.186.198/pages/.htaccessOLD
+403   278B   http://10.10.186.198/pages/.htaccessOLD2
+403   278B   http://10.10.186.198/pages/.httr-oauth
+403   278B   http://10.10.186.198/pages/.htaccessBAK
+403   278B   http://10.10.186.198/pages/.htaccess_orig
+403   278B   http://10.10.186.198/pages/.htpasswd_test
+403   278B   http://10.10.186.198/pages/.php
+403   278B   http://10.10.186.198/pages/.htaccess.save
+200     2KB  http://10.10.186.198/pages/gallery.html

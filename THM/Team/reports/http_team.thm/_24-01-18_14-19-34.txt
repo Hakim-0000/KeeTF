@@ -1,0 +1,6 @@
+# Dirsearch started Thu Jan 18 14:26:59 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://team.thm -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -t 50 -e ssh, rsa, php,html
+
+301   305B   http://team.thm/images    -> REDIRECTS TO: http://team.thm/images/
+301   306B   http://team.thm/scripts    -> REDIRECTS TO: http://team.thm/scripts/
+301   305B   http://team.thm/assets    -> REDIRECTS TO: http://team.thm/assets/
+403   273B   http://team.thm/server-status

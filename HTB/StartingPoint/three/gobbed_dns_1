@@ -1,0 +1,21 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:             http://thetoppers.htb
+[+] Method:          GET
+[+] Threads:         50
+[+] Wordlist:        /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-20000.txt
+[+] User Agent:      gobuster/3.6
+[+] Timeout:         10s
+[+] Append Domain:   true
+===============================================================
+Starting gobuster in VHOST enumeration mode
+===============================================================
+[2KFound: s3.thetoppers.htb Status: 404 [Size: 21]
+[2KFound: gc._msdcs.thetoppers.htb Status: 400 [Size: 306]
+[2KFound: _domainkey.thetoppers.htb Status: 400 [Size: 306]
+
+===============================================================
+Finished
+===============================================================

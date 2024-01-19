@@ -1,0 +1,23 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://codify.htb
+[+] Method:                  GET
+[+] Threads:                 50
+[+] Wordlist:                /usr/share/wordlists/dirb/big.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Extensions:              db,json,php,js
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+[2K/About                (Status: 200) [Size: 2921]
+[2K/about                (Status: 200) [Size: 2921]
+[2K/editor               (Status: 200) [Size: 3123]
+[2K/server-status        (Status: 403) [Size: 275]
+
+===============================================================
+Finished
+===============================================================

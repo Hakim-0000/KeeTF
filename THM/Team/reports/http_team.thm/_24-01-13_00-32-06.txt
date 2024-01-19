@@ -1,0 +1,7 @@
+# Dirsearch started Sat Jan 13 00:32:43 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://team.thm -w /usr/share/wordlists/dirb/common.txt
+
+301   305B   http://team.thm/assets    -> REDIRECTS TO: http://team.thm/assets/
+301   305B   http://team.thm/images    -> REDIRECTS TO: http://team.thm/images/
+200     5B   http://team.thm/robots.txt
+301   306B   http://team.thm/scripts    -> REDIRECTS TO: http://team.thm/scripts/
+403   273B   http://team.thm/server-status

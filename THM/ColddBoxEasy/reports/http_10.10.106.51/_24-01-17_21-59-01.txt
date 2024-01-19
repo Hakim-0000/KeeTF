@@ -1,0 +1,9 @@
+# Dirsearch started Wed Jan 17 21:59:34 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.106.51 -t 50 -w /usr/share/wordlists/seclists/Discovery/Web-Content/common.txt
+
+301   313B   http://10.10.106.51/hidden    -> REDIRECTS TO: http://10.10.106.51/hidden/
+301     0B   http://10.10.106.51/index.php    -> REDIRECTS TO: http://10.10.106.51/
+403   277B   http://10.10.106.51/server-status
+301   315B   http://10.10.106.51/wp-admin    -> REDIRECTS TO: http://10.10.106.51/wp-admin/
+301   317B   http://10.10.106.51/wp-content    -> REDIRECTS TO: http://10.10.106.51/wp-content/
+301   318B   http://10.10.106.51/wp-includes    -> REDIRECTS TO: http://10.10.106.51/wp-includes/
+200    42B   http://10.10.106.51/xmlrpc.php

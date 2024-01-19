@@ -1,0 +1,6 @@
+╔══════════╣ Searching passwords in config PHP files                                                      
+/var/www/html/fuel/application/config/database.php:     'password' => 'mememe',
+
+`
+admin db897584df700ea204997236729bd9d5bf847ad5 fc069701e0f42aa2ed8ade0ffe91d98c
+

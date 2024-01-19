@@ -1,0 +1,10 @@
+root
+daemon
+ftp
+network
+nobody
+ntp
+dnsmasq
+logd
+ubus
+netadmin

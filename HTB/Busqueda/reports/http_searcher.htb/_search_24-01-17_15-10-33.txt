@@ -1,0 +1,20 @@
+# Dirsearch started Wed Jan 17 15:38:01 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://searcher.htb/search -t 50 -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-2.3-big.txt
+
+404   274B   http://searcher.htb/search/http%3A%2F%2Fwww
+404   274B   http://searcher.htb/search/http%3A%2F%2Fyoutube
+404   274B   http://searcher.htb/search/http%3A%2F%2Fblogs
+404   274B   http://searcher.htb/search/http%3A%2F%2Fblog
+404   274B   http://searcher.htb/search/**http%3A%2F%2Fwww
+404   274B   http://searcher.htb/search/http%3A%2F%2Fcommunity
+404   274B   http://searcher.htb/search/http%3A%2F%2Fradar
+404   274B   http://searcher.htb/search/http%3A%2F%2Fswik
+404   274B   http://searcher.htb/search/http%3A%2F%2Fjeremiahgrossman
+404   274B   http://searcher.htb/search/http%3A%2F%2Fweblog
+404   274B   http://searcher.htb/search/Read%20Music%2fSpeak%20Spanish
+404   274B   http://searcher.htb/search/http%3A%2F%2Frjhansen
+404   274B   http://searcher.htb/search/http%3A%2F%2Fmysite
+404   274B   http://searcher.htb/search/http%3A%2F%2Flatexalibi
+404   274B   http://searcher.htb/search/http%3A%2F%2Fbrianenigma
+404   274B   http://searcher.htb/search/http%3A%2F%2Febaydeveloper
+404   274B   http://searcher.htb/search/http%3A%2F%2Fken
+404   274B   http://searcher.htb/search/http%3A%2F%2Fjeremy

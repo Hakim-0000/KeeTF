@@ -1,0 +1,14 @@
+tickets.keeper.htb/rt/login.php
+root:password
+
+setelah login
+lnorgaard@keeper.htb = lnorgaard:Welcome2023! (dapat dari login)
+root@localhost = root:password
+
+pergi ke https://app.keeweb.info untuk buka file `passcode.kdbx` dengan keyphrase `rødgrød med fløde`.
+selanjutnya kita dapat PUTTY script.
+buat file baru dengan isi putty yang didapat dari keepas db dan simpan dengan ekstensi `.ppk`.
+lakukan
+`puttygen key.ppk -O private-ssh -o root_rsa`
+`chmod 600 root_rsa`
+`ssh -i root_rsa root@keeper`

@@ -1,0 +1,68 @@
+# Dirsearch started Wed Jan 17 13:17:45 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.11.211 -t 50
+
+403   276B   http://10.10.11.211/.ht_wsr.txt
+403   276B   http://10.10.11.211/.htaccess.bak1
+403   276B   http://10.10.11.211/.htaccess.sample
+403   276B   http://10.10.11.211/.htaccess.orig
+403   276B   http://10.10.11.211/.htaccess_orig
+403   276B   http://10.10.11.211/.htaccessOLD
+403   276B   http://10.10.11.211/.htaccess_sc
+403   276B   http://10.10.11.211/.htaccessBAK
+403   276B   http://10.10.11.211/.htaccessOLD2
+403   276B   http://10.10.11.211/.htm
+403   276B   http://10.10.11.211/.html
+403   276B   http://10.10.11.211/.htpasswds
+403   276B   http://10.10.11.211/.httr-oauth
+403   276B   http://10.10.11.211/.htaccess.save
+403   276B   http://10.10.11.211/.htaccess_extra
+403   276B   http://10.10.11.211/.htpasswd_test
+200     4KB  http://10.10.11.211/about.php
+301   313B   http://10.10.11.211/cache    -> REDIRECTS TO: http://10.10.11.211/cache/
+302     0B   http://10.10.11.211/cache/    -> REDIRECTS TO: ../index.php
+403   276B   http://10.10.11.211/cli/
+200   249KB  http://10.10.11.211/CHANGELOG
+301   312B   http://10.10.11.211/docs    -> REDIRECTS TO: http://10.10.11.211/docs/
+200     4KB  http://10.10.11.211/docs/
+301   314B   http://10.10.11.211/images    -> REDIRECTS TO: http://10.10.11.211/images/
+302     0B   http://10.10.11.211/images/    -> REDIRECTS TO: ../index.php
+301   315B   http://10.10.11.211/include    -> REDIRECTS TO: http://10.10.11.211/include/
+302     0B   http://10.10.11.211/include/    -> REDIRECTS TO: ../index.php
+301   315B   http://10.10.11.211/install    -> REDIRECTS TO: http://10.10.11.211/install/
+302     0B   http://10.10.11.211/install/    -> REDIRECTS TO: install.php
+302     0B   http://10.10.11.211/install/index.php?upgrade/    -> REDIRECTS TO: install.php
+301   311B   http://10.10.11.211/lib    -> REDIRECTS TO: http://10.10.11.211/lib/
+302     0B   http://10.10.11.211/lib/    -> REDIRECTS TO: ../index.php
+200    15KB  http://10.10.11.211/LICENSE
+200     4KB  http://10.10.11.211/links.php
+403   276B   http://10.10.11.211/log
+403   276B   http://10.10.11.211/log/access_log
+403   276B   http://10.10.11.211/log/
+403   276B   http://10.10.11.211/log/error.log
+403   276B   http://10.10.11.211/log/development.log
+403   276B   http://10.10.11.211/log/errors.log
+403   276B   http://10.10.11.211/log/error_log
+403   276B   http://10.10.11.211/log/exception.log
+403   276B   http://10.10.11.211/log/librepag.log
+403   276B   http://10.10.11.211/log/log.log
+403   276B   http://10.10.11.211/log/access.log
+403   276B   http://10.10.11.211/log/authorizenet.log
+403   276B   http://10.10.11.211/log/log.txt
+403   276B   http://10.10.11.211/log/old
+403   276B   http://10.10.11.211/log/payment.log
+403   276B   http://10.10.11.211/log/payment_authorizenet.log
+403   276B   http://10.10.11.211/log/payment_paypal_express.log
+403   276B   http://10.10.11.211/log/production.log
+403   276B   http://10.10.11.211/log/server.log
+403   276B   http://10.10.11.211/log/www-error.log
+403   276B   http://10.10.11.211/log/test.log
+302     0B   http://10.10.11.211/logout.php    -> REDIRECTS TO: index.php
+301   315B   http://10.10.11.211/plugins    -> REDIRECTS TO: http://10.10.11.211/plugins/
+302     0B   http://10.10.11.211/plugins/    -> REDIRECTS TO: ../index.php
+200    11KB  http://10.10.11.211/README.md
+301   316B   http://10.10.11.211/resource    -> REDIRECTS TO: http://10.10.11.211/resource/
+302     0B   http://10.10.11.211/scripts/    -> REDIRECTS TO: ../index.php
+301   315B   http://10.10.11.211/scripts    -> REDIRECTS TO: http://10.10.11.211/scripts/
+403   276B   http://10.10.11.211/server-status/
+403   276B   http://10.10.11.211/server-status
+301   315B   http://10.10.11.211/service    -> REDIRECTS TO: http://10.10.11.211/service/
+301   320B   http://10.10.11.211/service?Wsdl    -> REDIRECTS TO: http://10.10.11.211/service/?Wsdl

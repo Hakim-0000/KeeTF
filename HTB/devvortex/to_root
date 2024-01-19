@@ -1,0 +1,3 @@
+sudo /usr/bin/apport-cli -c /var/crash/_file.crash
+*press v (enter)
+!/bin/bash

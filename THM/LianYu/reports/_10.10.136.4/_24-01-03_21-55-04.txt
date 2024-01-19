@@ -1,0 +1,4 @@
+# Dirsearch started Wed Jan  3 22:06:46 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u 10.10.136.4 -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -t 50
+
+301   234B   http://10.10.136.4/island    -> REDIRECTS TO: http://10.10.136.4/island/
+403   199B   http://10.10.136.4/server-status

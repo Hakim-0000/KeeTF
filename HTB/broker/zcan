@@ -1,0 +1,256 @@
+[1m[38;2;0;255;0m.[38;2;0;255;6m-[38;2;0;255;13m-[38;2;0;255;19m-[38;2;0;255;25m-[38;2;0;255;32m.[38;2;0;255;38m [38;2;0;255;45m.[38;2;0;255;51m-[38;2;0;255;57m.[38;2;0;255;64m [38;2;0;255;70m.[38;2;0;255;76m-[38;2;0;255;83m.[38;2;0;255;89m [38;2;0;255;96m.[38;2;0;255;102m-[38;2;0;255;108m-[38;2;0;255;115m-[38;2;0;255;121m-[38;2;0;255;127m.[38;2;0;255;134m.[38;2;0;255;140m-[38;2;0;255;147m-[38;2;0;255;153m-[38;2;0;255;159m.[38;2;0;255;166m [38;2;0;255;172m [38;2;0;255;178m.[38;2;0;255;185m-[38;2;0;255;191m-[38;2;0;255;198m-[38;2;0;255;204m-[38;2;0;255;210m.[38;2;0;255;217m [38;2;0;255;223m.[38;2;0;255;229m-[38;2;0;255;236m-[38;2;0;255;242m-[38;2;0;255;249m.[38;2;0;255;255m [38;2;0;249;255m [38;2;0;242;255m [38;2;0;236;255m.[38;2;0;230;255m-[38;2;0;223;255m-[38;2;0;217;255m.[38;2;0;210;255m [38;2;0;204;255m [38;2;0;198;255m.[38;2;0;191;255m-[38;2;0;185;255m.[38;2;0;179;255m [38;2;0;172;255m.[38;2;0;166;255m-[38;2;0;159;255m.[0m
+[38;2;0;255;0m|[38;2;0;255;6m [38;2;0;255;13m{[38;2;0;255;19m}[38;2;0;255;25m [38;2;0;255;32m [38;2;0;255;38m}[38;2;0;255;45m|[38;2;0;255;51m [38;2;0;255;57m{[38;2;0;255;64m [38;2;0;255;70m}[38;2;0;255;76m [38;2;0;255;83m|[38;2;0;255;89m{[38;2;0;255;96m [38;2;0;255;102m{[38;2;0;255;108m_[38;2;0;255;115m_[38;2;0;255;121m [38;2;0;255;127m{[38;2;0;255;134m_[38;2;0;255;140m [38;2;0;255;147m [38;2;0;255;153m [38;2;0;255;159m_[38;2;0;255;166m}[38;2;0;255;172m{[38;2;0;255;178m [38;2;0;255;185m{[38;2;0;255;191m_[38;2;0;255;198m_[38;2;0;255;204m [38;2;0;255;210m [38;2;0;255;217m/[38;2;0;255;223m [38;2;0;255;229m [38;2;0;255;236m_[38;2;0;255;242m_[38;2;0;255;249m_[38;2;0;255;255m}[38;2;0;249;255m [38;2;0;242;255m/[38;2;0;236;255m [38;2;0;230;255m{[38;2;0;223;255m}[38;2;0;217;255m [38;2;0;210;255m\[38;2;0;204;255m [38;2;0;198;255m|[38;2;0;191;255m [38;2;0;185;255m [38;2;0;179;255m`[38;2;0;172;255m|[38;2;0;166;255m [38;2;0;159;255m|[0m
+[38;2;0;255;0m|[38;2;0;255;6m [38;2;0;255;13m.[38;2;0;255;19m-[38;2;0;255;25m.[38;2;0;255;32m [38;2;0;255;38m\[38;2;0;255;45m|[38;2;0;255;51m [38;2;0;255;57m{[38;2;0;255;64m_[38;2;0;255;70m}[38;2;0;255;76m [38;2;0;255;83m|[38;2;0;255;89m.[38;2;0;255;96m-[38;2;0;255;102m.[38;2;0;255;108m_[38;2;0;255;115m}[38;2;0;255;121m [38;2;0;255;127m}[38;2;0;255;134m [38;2;0;255;140m|[38;2;0;255;147m [38;2;0;255;153m|[38;2;0;255;159m [38;2;0;255;166m [38;2;0;255;172m.[38;2;0;255;178m-[38;2;0;255;185m.[38;2;0;255;191m_[38;2;0;255;198m}[38;2;0;255;204m [38;2;0;255;210m}[38;2;0;255;217m\[38;2;0;255;223m [38;2;0;255;229m [38;2;0;255;236m [38;2;0;255;242m [38;2;0;255;249m [38;2;0;255;255m}[38;2;0;249;255m/[38;2;0;242;255m [38;2;0;236;255m [38;2;0;230;255m/[38;2;0;223;255m\[38;2;0;217;255m [38;2;0;210;255m [38;2;0;204;255m\[38;2;0;198;255m|[38;2;0;191;255m [38;2;0;185;255m|[38;2;0;179;255m\[38;2;0;172;255m [38;2;0;166;255m [38;2;0;159;255m|[0m
+[38;2;0;255;0m`[38;2;0;255;6m-[38;2;0;255;13m'[38;2;0;255;19m [38;2;0;255;25m`[38;2;0;255;32m-[38;2;0;255;38m'[38;2;0;255;45m`[38;2;0;255;51m-[38;2;0;255;57m-[38;2;0;255;64m-[38;2;0;255;70m-[38;2;0;255;76m-[38;2;0;255;83m'[38;2;0;255;89m`[38;2;0;255;96m-[38;2;0;255;102m-[38;2;0;255;108m-[38;2;0;255;115m-[38;2;0;255;121m'[38;2;0;255;127m [38;2;0;255;134m [38;2;0;255;140m`[38;2;0;255;147m-[38;2;0;255;153m'[38;2;0;255;159m [38;2;0;255;166m [38;2;0;255;172m`[38;2;0;255;178m-[38;2;0;255;185m-[38;2;0;255;191m-[38;2;0;255;198m-[38;2;0;255;204m'[38;2;0;255;210m [38;2;0;255;217m [38;2;0;255;223m`[38;2;0;255;229m-[38;2;0;255;236m-[38;2;0;255;242m-[38;2;0;255;249m'[38;2;0;255;255m [38;2;0;249;255m`[38;2;0;242;255m-[38;2;0;236;255m'[38;2;0;230;255m [38;2;0;223;255m [38;2;0;217;255m`[38;2;0;210;255m-[38;2;0;204;255m'[38;2;0;198;255m`[38;2;0;191;255m-[38;2;0;185;255m'[38;2;0;179;255m [38;2;0;172;255m`[38;2;0;166;255m-[38;2;0;159;255m'[0m
+[38;2;0;255;0mT[38;2;0;255;6mh[38;2;0;255;13me[38;2;0;255;19m [38;2;0;255;25mM[38;2;0;255;32mo[38;2;0;255;38md[38;2;0;255;45me[38;2;0;255;51mr[38;2;0;255;57mn[38;2;0;255;64m [38;2;0;255;70mD[38;2;0;255;76ma[38;2;0;255;83my[38;2;0;255;89m [38;2;0;255;96mP[38;2;0;255;102mo[38;2;0;255;108mr[38;2;0;255;115mt[38;2;0;255;121m [38;2;0;255;127mS[38;2;0;255;134mc[38;2;0;255;140ma[38;2;0;255;147mn[38;2;0;255;153mn[38;2;0;255;159me[38;2;0;255;166mr[38;2;0;255;172m.[0m[0m
+[1m[38;2;255;255;0m_[38;2;249;255;0m_[38;2;242;255;0m_[38;2;236;255;0m_[38;2;230;255;0m_[38;2;223;255;0m_[38;2;217;255;0m_[38;2;210;255;0m_[38;2;204;255;0m_[38;2;198;255;0m_[38;2;191;255;0m_[38;2;185;255;0m_[38;2;179;255;0m_[38;2;172;255;0m_[38;2;166;255;0m_[38;2;159;255;0m_[38;2;153;255;0m_[38;2;147;255;0m_[38;2;140;255;0m_[38;2;134;255;0m_[38;2;128;255;0m_[38;2;121;255;0m_[38;2;115;255;0m_[38;2;108;255;0m_[38;2;102;255;0m_[38;2;96;255;0m_[38;2;89;255;0m_[38;2;83;255;0m_[38;2;77;255;0m_[38;2;70;255;0m_[38;2;64;255;0m_[38;2;57;255;0m_[38;2;51;255;0m_[38;2;45;255;0m_[38;2;38;255;0m_[38;2;32;255;0m_[38;2;26;255;0m_[38;2;19;255;0m_[38;2;13;255;0m_[38;2;6;255;0m_[0m
+[38;2;255;255;0m:[38;2;249;255;0m [38;2;242;255;0mh[38;2;236;255;0mt[38;2;230;255;0mt[38;2;223;255;0mp[38;2;217;255;0ms[38;2;210;255;0m:[38;2;204;255;0m/[38;2;198;255;0m/[38;2;191;255;0md[38;2;185;255;0mi[38;2;179;255;0ms[38;2;172;255;0mc[38;2;166;255;0mo[38;2;159;255;0mr[38;2;153;255;0md[38;2;147;255;0m.[38;2;140;255;0mg[38;2;134;255;0mg[38;2;128;255;0m/[38;2;121;255;0mG[38;2;115;255;0mF[38;2;108;255;0mr[38;2;102;255;0mQ[38;2;96;255;0ms[38;2;89;255;0mG[38;2;83;255;0my[38;2;77;255;0m [38;2;70;255;0m [38;2;64;255;0m [38;2;57;255;0m [38;2;51;255;0m [38;2;45;255;0m [38;2;38;255;0m [38;2;32;255;0m [38;2;26;255;0m [38;2;19;255;0m [38;2;13;255;0m [38;2;6;255;0m:[0m
+[38;2;255;255;0m:[38;2;249;255;0m [38;2;242;255;0mh[38;2;236;255;0mt[38;2;230;255;0mt[38;2;223;255;0mp[38;2;217;255;0ms[38;2;210;255;0m:[38;2;204;255;0m/[38;2;198;255;0m/[38;2;191;255;0mg[38;2;185;255;0mi[38;2;179;255;0mt[38;2;172;255;0mh[38;2;166;255;0mu[38;2;159;255;0mb[38;2;153;255;0m.[38;2;147;255;0mc[38;2;140;255;0mo[38;2;134;255;0mm[38;2;128;255;0m/[38;2;121;255;0mR[38;2;115;255;0mu[38;2;108;255;0ms[38;2;102;255;0mt[38;2;96;255;0mS[38;2;89;255;0mc[38;2;83;255;0ma[38;2;77;255;0mn[38;2;70;255;0m/[38;2;64;255;0mR[38;2;57;255;0mu[38;2;51;255;0ms[38;2;45;255;0mt[38;2;38;255;0mS[38;2;32;255;0mc[38;2;26;255;0ma[38;2;19;255;0mn[38;2;13;255;0m [38;2;6;255;0m:[0m
+[38;2;255;255;0m [38;2;249;255;0m-[38;2;242;255;0m-[38;2;236;255;0m-[38;2;230;255;0m-[38;2;223;255;0m-[38;2;217;255;0m-[38;2;210;255;0m-[38;2;204;255;0m-[38;2;198;255;0m-[38;2;191;255;0m-[38;2;185;255;0m-[38;2;179;255;0m-[38;2;172;255;0m-[38;2;166;255;0m-[38;2;159;255;0m-[38;2;153;255;0m-[38;2;147;255;0m-[38;2;140;255;0m-[38;2;134;255;0m-[38;2;128;255;0m-[38;2;121;255;0m-[38;2;115;255;0m-[38;2;108;255;0m-[38;2;102;255;0m-[38;2;96;255;0m-[38;2;89;255;0m-[38;2;83;255;0m-[38;2;77;255;0m-[38;2;70;255;0m-[38;2;64;255;0m-[38;2;57;255;0m-[38;2;51;255;0m-[38;2;45;255;0m-[38;2;38;255;0m-[38;2;32;255;0m-[38;2;26;255;0m-[38;2;19;255;0m-[38;2;13;255;0m-[0m[0m
+Please contribute more quotes to our GitHub https://github.com/rustscan/rustscan
+
+[1;34m[~][0m The config file is expected to be at "/home/kali/.rustscan.toml"
+[1;31m[!][0m File limit is lower than default batch size. Consider upping with --ulimit. May cause harm to sensitive servers
+[1;31m[!][0m Your file limit is very small, which negatively impacts RustScan's speed. Use the Docker image, or up the Ulimit with '--ulimit 5000'. 
+Open 10.10.11.243:22
+Open 10.10.11.243:80
+Open 10.10.11.243:1337
+Open 10.10.11.243:1883
+Open 10.10.11.243:5672
+Open 10.10.11.243:8080
+Open 10.10.11.243:8161
+Open 10.10.11.243:34371
+Open 10.10.11.243:61614
+Open 10.10.11.243:61613
+Open 10.10.11.243:61616
+[1;34m[~][0m Starting Script(s)
+[1;38;2;0;255;9m[>][0m Script to be run Some("nmap -vvv -p {{port}} {{ip}}")
+
+[1;34m[~][0m Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-01-01 12:30 WIB
+NSE: Loaded 156 scripts for scanning.
+NSE: Script Pre-scanning.
+NSE: Starting runlevel 1 (of 3) scan.
+Initiating NSE at 12:30
+Completed NSE at 12:30, 0.00s elapsed
+NSE: Starting runlevel 2 (of 3) scan.
+Initiating NSE at 12:30
+Completed NSE at 12:30, 0.00s elapsed
+NSE: Starting runlevel 3 (of 3) scan.
+Initiating NSE at 12:30
+Completed NSE at 12:30, 0.00s elapsed
+Initiating Ping Scan at 12:30
+Scanning 10.10.11.243 [2 ports]
+Completed Ping Scan at 12:30, 0.20s elapsed (1 total hosts)
+Initiating Connect Scan at 12:30
+Scanning broker.htb (10.10.11.243) [11 ports]
+Discovered open port 8080/tcp on 10.10.11.243
+Discovered open port 80/tcp on 10.10.11.243
+Discovered open port 22/tcp on 10.10.11.243
+Discovered open port 61614/tcp on 10.10.11.243
+Discovered open port 34371/tcp on 10.10.11.243
+Discovered open port 61616/tcp on 10.10.11.243
+Discovered open port 61613/tcp on 10.10.11.243
+Discovered open port 5672/tcp on 10.10.11.243
+Discovered open port 8161/tcp on 10.10.11.243
+Discovered open port 1883/tcp on 10.10.11.243
+Discovered open port 1337/tcp on 10.10.11.243
+Completed Connect Scan at 12:30, 0.41s elapsed (11 total ports)
+Initiating Service scan at 12:30
+Scanning 11 services on broker.htb (10.10.11.243)
+Completed Service scan at 12:31, 35.06s elapsed (11 services on 1 host)
+NSE: Script scanning 10.10.11.243.
+NSE: Starting runlevel 1 (of 3) scan.
+Initiating NSE at 12:31
+Completed NSE at 12:31, 9.28s elapsed
+NSE: Starting runlevel 2 (of 3) scan.
+Initiating NSE at 12:31
+Completed NSE at 12:31, 0.96s elapsed
+NSE: Starting runlevel 3 (of 3) scan.
+Initiating NSE at 12:31
+Completed NSE at 12:31, 0.00s elapsed
+Nmap scan report for broker.htb (10.10.11.243)
+Host is up, received syn-ack (0.20s latency).
+Scanned at 2024-01-01 12:30:39 WIB for 45s
+
+PORT      STATE SERVICE    REASON  VERSION
+22/tcp    open  ssh        syn-ack OpenSSH 8.9p1 Ubuntu 3ubuntu0.4 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 3e:ea:45:4b:c5:d1:6d:6f:e2:d4:d1:3b:0a:3d:a9:4f (ECDSA)
+| ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJ+m7rYl1vRtnm789pH3IRhxI4CNCANVj+N5kovboNzcw9vHsBwvPX3KYA3cxGbKiA0VqbKRpOHnpsMuHEXEVJc=
+|   256 64:cc:75:de:4a:e6:a5:b4:73:eb:3f:1b:cf:b4:e3:94 (ED25519)
+|_ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOtuEdoYxTohG80Bo6YCqSzUY9+qbnAFnhsk4yAZNqhM
+80/tcp    open  http       syn-ack nginx 1.18.0 (Ubuntu)
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+| http-auth: 
+| HTTP/1.1 401 Unauthorized\x0D
+|_  basic realm=ActiveMQRealm
+|_http-title: Error 401 Unauthorized
+1337/tcp  open  http       syn-ack nginx 1.18.0 (Ubuntu)
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+|_http-title: Index of /
+| http-ls: Volume /
+|   maxfiles limit reached (10)
+| SIZE    TIME               FILENAME
+| -       06-Nov-2023 01:10  bin/
+| -       06-Nov-2023 01:10  bin/X11/
+| 963     17-Feb-2020 14:11  bin/NF
+| 129576  27-Oct-2023 11:38  bin/VGAuthService
+| 51632   07-Feb-2022 16:03  bin/%5B
+| 35344   19-Oct-2022 14:52  bin/aa-enabled
+| 35344   19-Oct-2022 14:52  bin/aa-exec
+| 31248   19-Oct-2022 14:52  bin/aa-features-abi
+| 14478   04-May-2023 11:14  bin/add-apt-repository
+| 14712   21-Feb-2022 01:49  bin/addpart
+|_
+1883/tcp  open  mqtt       syn-ack
+| mqtt-subscribe: 
+|   Topics and their most recent payloads: 
+|     ActiveMQ/Advisory/MasterBroker: 
+|_    ActiveMQ/Advisory/Consumer/Topic/#: 
+5672/tcp  open  amqp?      syn-ack
+|_amqp-info: ERROR: AQMP:handshake expected header (1) frame, but was 65
+| fingerprint-strings: 
+|   DNSStatusRequestTCP, DNSVersionBindReqTCP, GetRequest, HTTPOptions, RPCCheck, RTSPRequest, SSLSessionReq, TerminalServerCookie: 
+|     AMQP
+|     AMQP
+|     amqp:decode-error
+|_    7Connection from client using unsupported AMQP attempted
+8080/tcp  open  http       syn-ack nginx 1.18.0 (Ubuntu)
+|_http-title: Index of /
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+| http-ls: Volume /
+|   maxfiles limit reached (10)
+| SIZE    TIME               FILENAME
+| -       06-Nov-2023 01:10  bin/
+| -       06-Nov-2023 01:10  bin/X11/
+| 963     17-Feb-2020 14:11  bin/NF
+| 129576  27-Oct-2023 11:38  bin/VGAuthService
+| 51632   07-Feb-2022 16:03  bin/%5B
+| 35344   19-Oct-2022 14:52  bin/aa-enabled
+| 35344   19-Oct-2022 14:52  bin/aa-exec
+| 31248   19-Oct-2022 14:52  bin/aa-features-abi
+| 14478   04-May-2023 11:14  bin/add-apt-repository
+| 14712   21-Feb-2022 01:49  bin/addpart
+|_
+8161/tcp  open  http       syn-ack Jetty 9.4.39.v20210325
+|_http-title: Error 401 Unauthorized
+|_http-server-header: Jetty(9.4.39.v20210325)
+| http-auth: 
+| HTTP/1.1 401 Unauthorized\x0D
+|_  basic realm=ActiveMQRealm
+34371/tcp open  tcpwrapped syn-ack
+61613/tcp open  stomp      syn-ack Apache ActiveMQ
+| fingerprint-strings: 
+|   HELP4STOMP: 
+|     ERROR
+|     content-type:text/plain
+|     message:Unknown STOMP action: HELP
+|     org.apache.activemq.transport.stomp.ProtocolException: Unknown STOMP action: HELP
+|     org.apache.activemq.transport.stomp.ProtocolConverter.onStompCommand(ProtocolConverter.java:258)
+|     org.apache.activemq.transport.stomp.StompTransportFilter.onCommand(StompTransportFilter.java:85)
+|     org.apache.activemq.transport.TransportSupport.doConsume(TransportSupport.java:83)
+|     org.apache.activemq.transport.tcp.TcpTransport.doRun(TcpTransport.java:233)
+|     org.apache.activemq.transport.tcp.TcpTransport.run(TcpTransport.java:215)
+|_    java.lang.Thread.run(Thread.java:750)
+61614/tcp open  http       syn-ack Jetty 9.4.39.v20210325
+|_http-server-header: Jetty(9.4.39.v20210325)
+| http-methods: 
+|   Supported Methods: GET HEAD TRACE OPTIONS
+|_  Potentially risky methods: TRACE
+|_http-title: Site doesn't have a title.
+|_http-favicon: Unknown favicon MD5: D41D8CD98F00B204E9800998ECF8427E
+61616/tcp open  apachemq   syn-ack ActiveMQ OpenWire transport
+| fingerprint-strings: 
+|   NULL: 
+|     ActiveMQ
+|     TcpNoDelayEnabled
+|     SizePrefixDisabled
+|     CacheSize
+|     ProviderName 
+|     ActiveMQ
+|     StackTraceEnabled
+|     PlatformDetails 
+|     Java
+|     CacheEnabled
+|     TightEncodingEnabled
+|     MaxFrameSize
+|     MaxInactivityDuration
+|     MaxInactivityDurationInitalDelay
+|     ProviderVersion 
+|_    5.15.15
+3 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port5672-TCP:V=7.94SVN%I=7%D=1/1%Time=65924E0B%P=x86_64-pc-linux-gnu%r(
+SF:GetRequest,89,"AMQP\x03\x01\0\0AMQP\0\x01\0\0\0\0\0\x19\x02\0\0\0\0S\x1
+SF:0\xc0\x0c\x04\xa1\0@p\0\x02\0\0`\x7f\xff\0\0\0`\x02\0\0\0\0S\x18\xc0S\x
+SF:01\0S\x1d\xc0M\x02\xa3\x11amqp:decode-error\xa17Connection\x20from\x20c
+SF:lient\x20using\x20unsupported\x20AMQP\x20attempted")%r(HTTPOptions,89,"
+SF:AMQP\x03\x01\0\0AMQP\0\x01\0\0\0\0\0\x19\x02\0\0\0\0S\x10\xc0\x0c\x04\x
+SF:a1\0@p\0\x02\0\0`\x7f\xff\0\0\0`\x02\0\0\0\0S\x18\xc0S\x01\0S\x1d\xc0M\
+SF:x02\xa3\x11amqp:decode-error\xa17Connection\x20from\x20client\x20using\
+SF:x20unsupported\x20AMQP\x20attempted")%r(RTSPRequest,89,"AMQP\x03\x01\0\
+SF:0AMQP\0\x01\0\0\0\0\0\x19\x02\0\0\0\0S\x10\xc0\x0c\x04\xa1\0@p\0\x02\0\
+SF:0`\x7f\xff\0\0\0`\x02\0\0\0\0S\x18\xc0S\x01\0S\x1d\xc0M\x02\xa3\x11amqp
+SF::decode-error\xa17Connection\x20from\x20client\x20using\x20unsupported\
+SF:x20AMQP\x20attempted")%r(RPCCheck,89,"AMQP\x03\x01\0\0AMQP\0\x01\0\0\0\
+SF:0\0\x19\x02\0\0\0\0S\x10\xc0\x0c\x04\xa1\0@p\0\x02\0\0`\x7f\xff\0\0\0`\
+SF:x02\0\0\0\0S\x18\xc0S\x01\0S\x1d\xc0M\x02\xa3\x11amqp:decode-error\xa17
+SF:Connection\x20from\x20client\x20using\x20unsupported\x20AMQP\x20attempt
+SF:ed")%r(DNSVersionBindReqTCP,89,"AMQP\x03\x01\0\0AMQP\0\x01\0\0\0\0\0\x1
+SF:9\x02\0\0\0\0S\x10\xc0\x0c\x04\xa1\0@p\0\x02\0\0`\x7f\xff\0\0\0`\x02\0\
+SF:0\0\0S\x18\xc0S\x01\0S\x1d\xc0M\x02\xa3\x11amqp:decode-error\xa17Connec
+SF:tion\x20from\x20client\x20using\x20unsupported\x20AMQP\x20attempted")%r
+SF:(DNSStatusRequestTCP,89,"AMQP\x03\x01\0\0AMQP\0\x01\0\0\0\0\0\x19\x02\0
+SF:\0\0\0S\x10\xc0\x0c\x04\xa1\0@p\0\x02\0\0`\x7f\xff\0\0\0`\x02\0\0\0\0S\
+SF:x18\xc0S\x01\0S\x1d\xc0M\x02\xa3\x11amqp:decode-error\xa17Connection\x2
+SF:0from\x20client\x20using\x20unsupported\x20AMQP\x20attempted")%r(SSLSes
+SF:sionReq,89,"AMQP\x03\x01\0\0AMQP\0\x01\0\0\0\0\0\x19\x02\0\0\0\0S\x10\x
+SF:c0\x0c\x04\xa1\0@p\0\x02\0\0`\x7f\xff\0\0\0`\x02\0\0\0\0S\x18\xc0S\x01\
+SF:0S\x1d\xc0M\x02\xa3\x11amqp:decode-error\xa17Connection\x20from\x20clie
+SF:nt\x20using\x20unsupported\x20AMQP\x20attempted")%r(TerminalServerCooki
+SF:e,89,"AMQP\x03\x01\0\0AMQP\0\x01\0\0\0\0\0\x19\x02\0\0\0\0S\x10\xc0\x0c
+SF:\x04\xa1\0@p\0\x02\0\0`\x7f\xff\0\0\0`\x02\0\0\0\0S\x18\xc0S\x01\0S\x1d
+SF:\xc0M\x02\xa3\x11amqp:decode-error\xa17Connection\x20from\x20client\x20
+SF:using\x20unsupported\x20AMQP\x20attempted");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port61613-TCP:V=7.94SVN%I=7%D=1/1%Time=65924E06%P=x86_64-pc-linux-gnu%r
+SF:(HELP4STOMP,27F,"ERROR\ncontent-type:text/plain\nmessage:Unknown\x20STO
+SF:MP\x20action:\x20HELP\n\norg\.apache\.activemq\.transport\.stomp\.Proto
+SF:colException:\x20Unknown\x20STOMP\x20action:\x20HELP\n\tat\x20org\.apac
+SF:he\.activemq\.transport\.stomp\.ProtocolConverter\.onStompCommand\(Prot
+SF:ocolConverter\.java:258\)\n\tat\x20org\.apache\.activemq\.transport\.st
+SF:omp\.StompTransportFilter\.onCommand\(StompTransportFilter\.java:85\)\n
+SF:\tat\x20org\.apache\.activemq\.transport\.TransportSupport\.doConsume\(
+SF:TransportSupport\.java:83\)\n\tat\x20org\.apache\.activemq\.transport\.
+SF:tcp\.TcpTransport\.doRun\(TcpTransport\.java:233\)\n\tat\x20org\.apache
+SF:\.activemq\.transport\.tcp\.TcpTransport\.run\(TcpTransport\.java:215\)
+SF:\n\tat\x20java\.lang\.Thread\.run\(Thread\.java:750\)\n\0\n");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port61616-TCP:V=7.94SVN%I=7%D=1/1%Time=65924E05%P=x86_64-pc-linux-gnu%r
+SF:(NULL,140,"\0\0\x01<\x01ActiveMQ\0\0\0\x0c\x01\0\0\x01\*\0\0\0\x0c\0\x1
+SF:1TcpNoDelayEnabled\x01\x01\0\x12SizePrefixDisabled\x01\0\0\tCacheSize\x
+SF:05\0\0\x04\0\0\x0cProviderName\t\0\x08ActiveMQ\0\x11StackTraceEnabled\x
+SF:01\x01\0\x0fPlatformDetails\t\0\x04Java\0\x0cCacheEnabled\x01\x01\0\x14
+SF:TightEncodingEnabled\x01\x01\0\x0cMaxFrameSize\x06\0\0\0\0\x06@\0\0\0\x
+SF:15MaxInactivityDuration\x06\0\0\0\0\0\0u0\0\x20MaxInactivityDurationIni
+SF:talDelay\x06\0\0\0\0\0\0'\x10\0\x0fProviderVersion\t\0\x075\.15\.15");
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+NSE: Script Post-scanning.
+NSE: Starting runlevel 1 (of 3) scan.
+Initiating NSE at 12:31
+Completed NSE at 12:31, 0.00s elapsed
+NSE: Starting runlevel 2 (of 3) scan.
+Initiating NSE at 12:31
+Completed NSE at 12:31, 0.00s elapsed
+NSE: Starting runlevel 3 (of 3) scan.
+Initiating NSE at 12:31
+Completed NSE at 12:31, 0.00s elapsed
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 46.32 seconds
+

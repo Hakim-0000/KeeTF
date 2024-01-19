@@ -1,0 +1,3 @@
+# Dirsearch started Wed Jan  3 22:05:26 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.136.4/island -w page_wordlists -t 50
+
+301   239B   http://10.10.136.4/island/2100    -> REDIRECTS TO: http://10.10.136.4/island/2100/

@@ -1,0 +1,8 @@
+# Dirsearch started Tue Jan  9 19:31:09 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.54.163/ -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -t 50 -e php,html
+
+301   313B   http://10.10.54.163/images    -> REDIRECTS TO: http://10.10.54.163/images/
+301   310B   http://10.10.54.163/css    -> REDIRECTS TO: http://10.10.54.163/css/
+301   309B   http://10.10.54.163/js    -> REDIRECTS TO: http://10.10.54.163/js/
+301   312B   http://10.10.54.163/fonts    -> REDIRECTS TO: http://10.10.54.163/fonts/
+301   313B   http://10.10.54.163/secret    -> REDIRECTS TO: http://10.10.54.163/secret/
+403   277B   http://10.10.54.163/server-status

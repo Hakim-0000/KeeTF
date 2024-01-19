@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Mon Jan  1 09:06:35 2024 as: nmap -A -Pn -oN zcan-dev dev.devvortex.htb/administrator
+Unable to split netmask from target expression: "dev.devvortex.htb/administrator"
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Mon Jan  1 09:06:35 2024 -- 0 IP addresses (0 hosts up) scanned in 0.22 seconds

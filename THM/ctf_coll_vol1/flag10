@@ -1,0 +1,1 @@
+xxd -r -p -o 0 <(echo 8950 4E47 0D0A 1A0A 0000 000d 4948 4452) spoil.png

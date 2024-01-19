@@ -1,0 +1,28 @@
+# Dirsearch started Tue Jan 16 20:21:04 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.164.61
+
+403   277B   http://10.10.164.61/.ht_wsr.txt
+403   277B   http://10.10.164.61/.htaccessBAK
+403   277B   http://10.10.164.61/.htaccess.orig
+403   277B   http://10.10.164.61/.htaccess_orig
+403   277B   http://10.10.164.61/.htaccess_extra
+403   277B   http://10.10.164.61/.htaccessOLD2
+403   277B   http://10.10.164.61/.htaccess.bak1
+403   277B   http://10.10.164.61/.htm
+403   277B   http://10.10.164.61/.htaccess.sample
+403   277B   http://10.10.164.61/.htaccessOLD
+403   277B   http://10.10.164.61/.htaccess_sc
+403   277B   http://10.10.164.61/.htaccess.save
+403   277B   http://10.10.164.61/.html
+403   277B   http://10.10.164.61/.httr-oauth
+403   277B   http://10.10.164.61/.htpasswds
+403   277B   http://10.10.164.61/.htpasswd_test
+403   277B   http://10.10.164.61/.php
+200     2KB  http://10.10.164.61/about.php
+200   524B   http://10.10.164.61/about.html
+200    33B   http://10.10.164.61/robots.txt
+200   456B   http://10.10.164.61/secret/
+301   313B   http://10.10.164.61/secret    -> REDIRECTS TO: http://10.10.164.61/secret/
+403   277B   http://10.10.164.61/server-status/
+403   277B   http://10.10.164.61/server-status
+200   523B   http://10.10.164.61/uploads/
+301   314B   http://10.10.164.61/uploads    -> REDIRECTS TO: http://10.10.164.61/uploads/

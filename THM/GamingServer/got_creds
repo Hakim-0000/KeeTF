@@ -1,0 +1,4 @@
+dapat creds dari enumerasi website
+	- john (user di source code)
+	- secretKey file (../secret)
+	- letmein (passphrase setelah ssh2john)

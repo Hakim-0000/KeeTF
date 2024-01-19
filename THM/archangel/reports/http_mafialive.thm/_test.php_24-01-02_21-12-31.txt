@@ -1,0 +1,4 @@
+# Dirsearch started Tue Jan  2 21:14:17 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://mafialive.thm/test.php?view=/var/www/html/development_testing/ -t 50
+
+403   278B   http://mafialive.thm/test.phps
+403   278B   http://mafialive.thm/test.phps/sfsites/aura

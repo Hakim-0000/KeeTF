@@ -1,0 +1,36 @@
+# Dirsearch started Mon Jan 15 23:04:31 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://latex.topology.htb -e tex,php -t 50
+
+403   283B   http://latex.topology.htb/.ht_wsr.txt
+403   283B   http://latex.topology.htb/.htaccess.bak1
+403   283B   http://latex.topology.htb/.htaccess.orig
+403   283B   http://latex.topology.htb/.htaccess.sample
+403   283B   http://latex.topology.htb/.htaccess.save
+403   283B   http://latex.topology.htb/.htaccess_extra
+403   283B   http://latex.topology.htb/.htaccess_orig
+403   283B   http://latex.topology.htb/.htaccess_sc
+403   283B   http://latex.topology.htb/.htaccessBAK
+403   283B   http://latex.topology.htb/.htaccessOLD
+403   283B   http://latex.topology.htb/.htaccessOLD2
+403   283B   http://latex.topology.htb/.htm
+403   283B   http://latex.topology.htb/.html
+403   283B   http://latex.topology.htb/.htpasswds
+403   283B   http://latex.topology.htb/.htpasswd_test
+403   283B   http://latex.topology.htb/.httr-oauth
+403   283B   http://latex.topology.htb/.php
+301   323B   http://latex.topology.htb/demo    -> REDIRECTS TO: http://latex.topology.htb/demo/
+200   497B   http://latex.topology.htb/demo/
+200   502B   http://latex.topology.htb/header.tex
+301   329B   http://latex.topology.htb/javascript    -> REDIRECTS TO: http://latex.topology.htb/javascript/
+403   283B   http://latex.topology.htb/server-status
+403   283B   http://latex.topology.htb/server-status/
+403   283B   http://latex.topology.htb/~backup
+403   283B   http://latex.topology.htb/~bin
+403   283B   http://latex.topology.htb/~daemon
+403   283B   http://latex.topology.htb/~games
+403   283B   http://latex.topology.htb/~gdm
+403   283B   http://latex.topology.htb/~nobody
+403   283B   http://latex.topology.htb/~lp
+403   283B   http://latex.topology.htb/~news
+403   283B   http://latex.topology.htb/~mail
+403   283B   http://latex.topology.htb/~sync
+403   283B   http://latex.topology.htb/~uucp

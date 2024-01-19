@@ -1,0 +1,21 @@
+# Dirsearch started Fri Jan 12 23:51:52 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://dev.team.thm
+
+403   277B   http://dev.team.thm/.ht_wsr.txt
+403   277B   http://dev.team.thm/.htaccess.bak1
+403   277B   http://dev.team.thm/.htaccess.sample
+403   277B   http://dev.team.thm/.htaccess.orig
+403   277B   http://dev.team.thm/.htaccess.save
+403   277B   http://dev.team.thm/.htaccess_extra
+403   277B   http://dev.team.thm/.htm
+403   277B   http://dev.team.thm/.htaccessBAK
+403   277B   http://dev.team.thm/.htaccessOLD2
+403   277B   http://dev.team.thm/.htaccess_sc
+403   277B   http://dev.team.thm/.htaccess_orig
+403   277B   http://dev.team.thm/.htaccessOLD
+403   277B   http://dev.team.thm/.html
+403   277B   http://dev.team.thm/.htpasswds
+403   277B   http://dev.team.thm/.httr-oauth
+403   277B   http://dev.team.thm/.htpasswd_test
+403   277B   http://dev.team.thm/.php
+403   277B   http://dev.team.thm/server-status
+403   277B   http://dev.team.thm/server-status/
