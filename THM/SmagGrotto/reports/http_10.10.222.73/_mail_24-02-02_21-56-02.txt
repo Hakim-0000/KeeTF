@@ -1,0 +1,20 @@
+# Dirsearch started Fri Feb  2 21:56:15 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.222.73/mail
+
+403   277B   http://10.10.222.73/mail/.ht_wsr.txt
+403   277B   http://10.10.222.73/mail/.htaccess.bak1
+403   277B   http://10.10.222.73/mail/.htaccess.orig
+403   277B   http://10.10.222.73/mail/.htaccess.sample
+403   277B   http://10.10.222.73/mail/.htaccess.save
+403   277B   http://10.10.222.73/mail/.htaccess_extra
+403   277B   http://10.10.222.73/mail/.htaccess_sc
+403   277B   http://10.10.222.73/mail/.htaccess_orig
+403   277B   http://10.10.222.73/mail/.htaccessBAK
+403   277B   http://10.10.222.73/mail/.htaccessOLD
+403   277B   http://10.10.222.73/mail/.htaccessOLD2
+403   277B   http://10.10.222.73/mail/.htm
+403   277B   http://10.10.222.73/mail/.html
+403   277B   http://10.10.222.73/mail/.htpasswd_test
+403   277B   http://10.10.222.73/mail/.htpasswds
+403   277B   http://10.10.222.73/mail/.httr-oauth
+403   277B   http://10.10.222.73/mail/.php
+403   277B   http://10.10.222.73/mail/.php3

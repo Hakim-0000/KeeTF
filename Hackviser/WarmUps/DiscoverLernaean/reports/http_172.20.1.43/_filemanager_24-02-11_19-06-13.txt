@@ -1,0 +1,21 @@
+# Dirsearch started Sun Feb 11 19:06:56 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://172.20.1.43/filemanager
+
+403   276B   http://172.20.1.43/filemanager/.htaccess.bak1
+403   276B   http://172.20.1.43/filemanager/.htaccess.orig
+403   276B   http://172.20.1.43/filemanager/.htaccess.sample
+403   276B   http://172.20.1.43/filemanager/.ht_wsr.txt
+403   276B   http://172.20.1.43/filemanager/.htaccess_extra
+403   276B   http://172.20.1.43/filemanager/.htaccess.save
+403   276B   http://172.20.1.43/filemanager/.htaccess_orig
+403   276B   http://172.20.1.43/filemanager/.htaccess_sc
+403   276B   http://172.20.1.43/filemanager/.htaccessBAK
+403   276B   http://172.20.1.43/filemanager/.htaccessOLD2
+403   276B   http://172.20.1.43/filemanager/.htaccessOLD
+403   276B   http://172.20.1.43/filemanager/.html
+403   276B   http://172.20.1.43/filemanager/.htm
+403   276B   http://172.20.1.43/filemanager/.htpasswds
+403   276B   http://172.20.1.43/filemanager/.httr-oauth
+403   276B   http://172.20.1.43/filemanager/.htpasswd_test
+403   276B   http://172.20.1.43/filemanager/.php
+301   323B   http://172.20.1.43/filemanager/assets    -> REDIRECTS TO: http://172.20.1.43/filemanager/assets/
+200   472B   http://172.20.1.43/filemanager/assets/

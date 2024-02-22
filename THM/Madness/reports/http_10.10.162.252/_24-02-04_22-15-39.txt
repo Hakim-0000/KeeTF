@@ -1,0 +1,3 @@
+# Dirsearch started Sun Feb  4 22:25:38 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.162.252 -t 60 -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt
+
+403   278B   http://10.10.162.252/server-status

@@ -1,0 +1,13 @@
+Target: http://g5wsr487.nahamstore.com/
+Total requests: 114441
+==================================================================
+ID    Response   Lines      Word         Chars          Request    
+==================================================================
+00001:  C=200     82 L	     202 W	   4254 Ch	  "www - www"
+00254:  C=200     41 L	      92 W	   2025 Ch	  "marketing - marketing"
+00960:  C=200      0 L	       1 W	     76 Ch	  "stock - stock"
+
+Total time: 0
+Processed Requests: 61941
+Filtered Requests: 61938
+Requests/sec.: 0

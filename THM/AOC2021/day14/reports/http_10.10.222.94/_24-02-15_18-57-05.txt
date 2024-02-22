@@ -1,0 +1,21 @@
+# Dirsearch started Thu Feb 15 18:59:17 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.222.94
+
+403   277B   http://10.10.222.94/.ht_wsr.txt
+403   277B   http://10.10.222.94/.htaccess.save
+403   277B   http://10.10.222.94/.htaccess.orig
+403   277B   http://10.10.222.94/.htaccess.bak1
+403   277B   http://10.10.222.94/.htaccess.sample
+403   277B   http://10.10.222.94/.htaccess_extra
+403   277B   http://10.10.222.94/.htaccess_orig
+403   277B   http://10.10.222.94/.htaccessOLD2
+403   277B   http://10.10.222.94/.htaccessBAK
+403   277B   http://10.10.222.94/.htaccess_sc
+403   277B   http://10.10.222.94/.htaccessOLD
+403   277B   http://10.10.222.94/.html
+403   277B   http://10.10.222.94/.htm
+403   277B   http://10.10.222.94/.htpasswd_test
+403   277B   http://10.10.222.94/.httr-oauth
+403   277B   http://10.10.222.94/.htpasswds
+200   363B   http://10.10.222.94/admin
+403   277B   http://10.10.222.94/server-status
+403   277B   http://10.10.222.94/server-status/

@@ -1,0 +1,24 @@
+# Dirsearch started Tue Jan 30 20:45:17 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.92.57/joomla -t 50 -e php,js,html,txt,bak,aspx,jsp -w /usr/share/wordlists/seclists/Discovery/Web-Content/common.txt
+
+301   320B   http://10.10.92.57/joomla/_archive    -> REDIRECTS TO: http://10.10.92.57/joomla/_archive/
+301   321B   http://10.10.92.57/joomla/_database    -> REDIRECTS TO: http://10.10.92.57/joomla/_database/
+301   318B   http://10.10.92.57/joomla/_files    -> REDIRECTS TO: http://10.10.92.57/joomla/_files/
+301   317B   http://10.10.92.57/joomla/_test    -> REDIRECTS TO: http://10.10.92.57/joomla/_test/
+301   325B   http://10.10.92.57/joomla/administrator    -> REDIRECTS TO: http://10.10.92.57/joomla/administrator/
+301   315B   http://10.10.92.57/joomla/bin    -> REDIRECTS TO: http://10.10.92.57/joomla/bin/
+301   317B   http://10.10.92.57/joomla/build    -> REDIRECTS TO: http://10.10.92.57/joomla/build/
+301   317B   http://10.10.92.57/joomla/cache    -> REDIRECTS TO: http://10.10.92.57/joomla/cache/
+301   322B   http://10.10.92.57/joomla/components    -> REDIRECTS TO: http://10.10.92.57/joomla/components/
+301   318B   http://10.10.92.57/joomla/images    -> REDIRECTS TO: http://10.10.92.57/joomla/images/
+301   320B   http://10.10.92.57/joomla/includes    -> REDIRECTS TO: http://10.10.92.57/joomla/includes/
+301   324B   http://10.10.92.57/joomla/installation    -> REDIRECTS TO: http://10.10.92.57/joomla/installation/
+301   320B   http://10.10.92.57/joomla/language    -> REDIRECTS TO: http://10.10.92.57/joomla/language/
+301   319B   http://10.10.92.57/joomla/layouts    -> REDIRECTS TO: http://10.10.92.57/joomla/layouts/
+301   321B   http://10.10.92.57/joomla/libraries    -> REDIRECTS TO: http://10.10.92.57/joomla/libraries/
+301   317B   http://10.10.92.57/joomla/media    -> REDIRECTS TO: http://10.10.92.57/joomla/media/
+301   319B   http://10.10.92.57/joomla/modules    -> REDIRECTS TO: http://10.10.92.57/joomla/modules/
+301   319B   http://10.10.92.57/joomla/plugins    -> REDIRECTS TO: http://10.10.92.57/joomla/plugins/
+301   321B   http://10.10.92.57/joomla/templates    -> REDIRECTS TO: http://10.10.92.57/joomla/templates/
+301   317B   http://10.10.92.57/joomla/tests    -> REDIRECTS TO: http://10.10.92.57/joomla/tests/
+301   315B   http://10.10.92.57/joomla/tmp    -> REDIRECTS TO: http://10.10.92.57/joomla/tmp/
+301   316B   http://10.10.92.57/joomla/~www    -> REDIRECTS TO: http://10.10.92.57/joomla/~www/

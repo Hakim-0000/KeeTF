@@ -1,0 +1,4 @@
+# Dirsearch started Mon Jan 22 12:53:56 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://nagios.monitored.htb/nagiosxi/api/ -t 50 -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-big.txt
+
+301   346B   https://nagios.monitored.htb/nagiosxi/api/includes    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/api/includes/
+301   340B   https://nagios.monitored.htb/nagiosxi/api/v1    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/api/v1/

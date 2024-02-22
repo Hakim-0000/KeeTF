@@ -1,0 +1,4 @@
+# Dirsearch started Tue Feb 13 22:49:32 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.83.48 -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-small.txt
+
+200     2KB  http://10.10.83.48/privacy
+200     3KB  http://10.10.83.48/error

@@ -1,0 +1,24 @@
+# Dirsearch started Tue Jan 30 21:53:37 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.161.55 -t 50
+
+301   309B   http://10.10.161.55/js    -> REDIRECTS TO: http://10.10.161.55/js/
+403   277B   http://10.10.161.55/.ht_wsr.txt
+403   277B   http://10.10.161.55/.htaccess.bak1
+403   277B   http://10.10.161.55/.htaccessBAK
+403   277B   http://10.10.161.55/.htaccess.save
+403   277B   http://10.10.161.55/.htaccess_orig
+403   277B   http://10.10.161.55/.htaccessOLD2
+403   277B   http://10.10.161.55/.htaccess_extra
+403   277B   http://10.10.161.55/.htaccess.orig
+403   277B   http://10.10.161.55/.htaccessOLD
+403   277B   http://10.10.161.55/.htaccess_sc
+403   277B   http://10.10.161.55/.htaccess.sample
+403   277B   http://10.10.161.55/.html
+403   277B   http://10.10.161.55/.htm
+403   277B   http://10.10.161.55/.htpasswd_test
+403   277B   http://10.10.161.55/.httr-oauth
+403   277B   http://10.10.161.55/.htpasswds
+403   277B   http://10.10.161.55/.php
+301   310B   http://10.10.161.55/css    -> REDIRECTS TO: http://10.10.161.55/css/
+200   459B   http://10.10.161.55/js/
+403   277B   http://10.10.161.55/server-status/
+403   277B   http://10.10.161.55/server-status

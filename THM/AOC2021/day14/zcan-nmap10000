@@ -1,0 +1,1 @@
+# Nmap 7.94SVN scan initiated Thu Feb 15 19:12:44 2024 as: nmap -sV -p1-10000 -oN zcan-nmap10000 10.10.222.94

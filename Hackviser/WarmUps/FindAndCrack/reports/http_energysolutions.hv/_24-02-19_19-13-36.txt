@@ -1,0 +1,23 @@
+# Dirsearch started Mon Feb 19 19:14:56 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://energysolutions.hv
+
+403   283B   http://energysolutions.hv/.ht_wsr.txt
+403   283B   http://energysolutions.hv/.htaccess.bak1
+403   283B   http://energysolutions.hv/.htaccess.orig
+403   283B   http://energysolutions.hv/.htaccess.sample
+403   283B   http://energysolutions.hv/.htaccess.save
+403   283B   http://energysolutions.hv/.htaccess_extra
+403   283B   http://energysolutions.hv/.htaccess_sc
+403   283B   http://energysolutions.hv/.htaccessOLD
+403   283B   http://energysolutions.hv/.htaccess_orig
+403   283B   http://energysolutions.hv/.htaccessOLD2
+403   283B   http://energysolutions.hv/.htaccessBAK
+403   283B   http://energysolutions.hv/.htm
+403   283B   http://energysolutions.hv/.html
+403   283B   http://energysolutions.hv/.htpasswd_test
+403   283B   http://energysolutions.hv/.htpasswds
+403   283B   http://energysolutions.hv/.httr-oauth
+403   283B   http://energysolutions.hv/.php
+301   323B   http://energysolutions.hv/glpi    -> REDIRECTS TO: http://energysolutions.hv/glpi/
+200     3KB  http://energysolutions.hv/glpi/
+403   283B   http://energysolutions.hv/server-status
+403   283B   http://energysolutions.hv/server-status/

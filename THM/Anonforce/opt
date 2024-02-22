@@ -1,0 +1,27 @@
+drwxr-xr-x   23 0        0            4096 Aug 11  2019 .
+drwxr-xr-x   23 0        0            4096 Aug 11  2019 ..
+drwxr-xr-x    2 0        0            4096 Aug 11  2019 bin
+drwxr-xr-x    3 0        0            4096 Aug 11  2019 boot
+drwxr-xr-x   17 0        0            3700 Jan 24 09:08 dev
+drwxr-xr-x   85 0        0            4096 Aug 13  2019 etc
+drwxr-xr-x    3 0        0            4096 Aug 11  2019 home
+lrwxrwxrwx    1 0        0              33 Aug 11  2019 initrd.img -> boot/initrd.img-4.4.0-157-generic
+lrwxrwxrwx    1 0        0              33 Aug 11  2019 initrd.img.old -> boot/initrd.img-4.4.0-142-generic
+drwxr-xr-x   19 0        0            4096 Aug 11  2019 lib
+drwxr-xr-x    2 0        0            4096 Aug 11  2019 lib64
+drwx------    2 0        0           16384 Aug 11  2019 lost+found
+drwxr-xr-x    4 0        0            4096 Aug 11  2019 media
+drwxr-xr-x    2 0        0            4096 Feb 26  2019 mnt
+drwxrwxrwx    2 1000     1000         4096 Aug 11  2019 notread
+drwxr-xr-x    2 0        0            4096 Aug 11  2019 opt
+dr-xr-xr-x   99 0        0               0 Jan 24 09:08 proc
+drwx------    3 0        0            4096 Aug 11  2019 root
+drwxr-xr-x   18 0        0             540 Jan 24 09:08 run
+drwxr-xr-x    2 0        0           12288 Aug 11  2019 sbin
+drwxr-xr-x    3 0        0            4096 Aug 11  2019 srv
+dr-xr-xr-x   13 0        0               0 Jan 24 09:08 sys
+drwxrwxrwt    9 0        0            4096 Jan 24 09:08 tmp
+drwxr-xr-x   10 0        0            4096 Aug 11  2019 usr
+drwxr-xr-x   11 0        0            4096 Aug 11  2019 var
+lrwxrwxrwx    1 0        0              30 Aug 11  2019 vmlinuz -> boot/vmlinuz-4.4.0-157-generic
+lrwxrwxrwx    1 0        0              30 Aug 11  2019 vmlinuz.old -> boot/vmlinuz-4.4.0-142-generic

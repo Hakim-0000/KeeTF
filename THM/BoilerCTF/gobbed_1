@@ -1,0 +1,30 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.92.57/joomla/administrator
+[+] Method:                  GET
+[+] Threads:                 50
+[+] Wordlist:                /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-small.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Extensions:              bak,txt,log,php
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+[2K/.php                 (Status: 403) [Size: 311]
+[2K/help                 (Status: 301) [Size: 330] [--> http://10.10.92.57/joomla/administrator/help/]
+[2K/index.php            (Status: 200) [Size: 5155]
+[2K/templates            (Status: 301) [Size: 335] [--> http://10.10.92.57/joomla/administrator/templates/]
+[2K/modules              (Status: 301) [Size: 333] [--> http://10.10.92.57/joomla/administrator/modules/]
+[2K/includes             (Status: 301) [Size: 334] [--> http://10.10.92.57/joomla/administrator/includes/]
+[2K/language             (Status: 301) [Size: 334] [--> http://10.10.92.57/joomla/administrator/language/]
+[2K/components           (Status: 301) [Size: 336] [--> http://10.10.92.57/joomla/administrator/components/]
+[2K/cache                (Status: 301) [Size: 331] [--> http://10.10.92.57/joomla/administrator/cache/]
+[2K/logs                 (Status: 301) [Size: 330] [--> http://10.10.92.57/joomla/administrator/logs/]
+[2K/.php                 (Status: 403) [Size: 311]
+
+===============================================================
+Finished
+===============================================================

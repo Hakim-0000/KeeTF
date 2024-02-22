@@ -1,0 +1,29 @@
+# Dirsearch started Thu Feb 15 12:06:41 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://dashboard.innovifyai.hackviser
+
+301   345B   http://dashboard.innovifyai.hackviser/js    -> REDIRECTS TO: http://dashboard.innovifyai.hackviser/js/
+403   295B   http://dashboard.innovifyai.hackviser/.ht_wsr.txt
+403   295B   http://dashboard.innovifyai.hackviser/.htaccess.bak1
+403   295B   http://dashboard.innovifyai.hackviser/.htaccess.orig
+403   295B   http://dashboard.innovifyai.hackviser/.htaccess.sample
+403   295B   http://dashboard.innovifyai.hackviser/.htaccess.save
+403   295B   http://dashboard.innovifyai.hackviser/.htaccess_extra
+403   295B   http://dashboard.innovifyai.hackviser/.htaccess_sc
+403   295B   http://dashboard.innovifyai.hackviser/.htaccess_orig
+403   295B   http://dashboard.innovifyai.hackviser/.htaccessBAK
+403   295B   http://dashboard.innovifyai.hackviser/.htaccessOLD
+403   295B   http://dashboard.innovifyai.hackviser/.htaccessOLD2
+403   295B   http://dashboard.innovifyai.hackviser/.htm
+403   295B   http://dashboard.innovifyai.hackviser/.html
+403   295B   http://dashboard.innovifyai.hackviser/.htpasswd_test
+403   295B   http://dashboard.innovifyai.hackviser/.httr-oauth
+403   295B   http://dashboard.innovifyai.hackviser/.htpasswds
+403   295B   http://dashboard.innovifyai.hackviser/.php
+301   349B   http://dashboard.innovifyai.hackviser/assets    -> REDIRECTS TO: http://dashboard.innovifyai.hackviser/assets/
+200   454B   http://dashboard.innovifyai.hackviser/assets/
+301   346B   http://dashboard.innovifyai.hackviser/css    -> REDIRECTS TO: http://dashboard.innovifyai.hackviser/css/
+200   678B   http://dashboard.innovifyai.hackviser/js/
+200   461B   http://dashboard.innovifyai.hackviser/login.php
+403   295B   http://dashboard.innovifyai.hackviser/server-status/
+403   295B   http://dashboard.innovifyai.hackviser/server-status
+200   414B   http://dashboard.innovifyai.hackviser/uploads/
+301   350B   http://dashboard.innovifyai.hackviser/uploads    -> REDIRECTS TO: http://dashboard.innovifyai.hackviser/uploads/

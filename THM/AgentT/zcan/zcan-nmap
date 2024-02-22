@@ -1,0 +1,9 @@
+# Nmap 7.94SVN scan initiated Sun Jan 28 21:49:56 2024 as: nmap -sV -Pn -oN zcan/zcan-nmap 10.10.75.2
+Nmap scan report for 10.10.75.2
+Host is up (0.20s latency).
+Not shown: 999 closed tcp ports (conn-refused)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    PHP cli server 5.5 or later (PHP 8.1.0-dev)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Jan 28 22:02:27 2024 -- 1 IP address (1 host up) scanned in 750.91 seconds

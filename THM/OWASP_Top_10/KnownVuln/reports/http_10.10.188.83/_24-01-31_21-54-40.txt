@@ -1,0 +1,35 @@
+# Dirsearch started Wed Jan 31 21:56:04 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.188.83 -t 50
+
+403   277B   http://10.10.188.83/.ht_wsr.txt
+403   277B   http://10.10.188.83/.htaccess.bak1
+403   277B   http://10.10.188.83/.htaccess.orig
+403   277B   http://10.10.188.83/.htaccess.sample
+403   277B   http://10.10.188.83/.htaccess.save
+403   277B   http://10.10.188.83/.htaccess_extra
+403   277B   http://10.10.188.83/.htaccess_orig
+403   277B   http://10.10.188.83/.htaccess_sc
+403   277B   http://10.10.188.83/.htaccessBAK
+403   277B   http://10.10.188.83/.htaccessOLD2
+403   277B   http://10.10.188.83/.htaccessOLD
+403   277B   http://10.10.188.83/.html
+403   277B   http://10.10.188.83/.htm
+403   277B   http://10.10.188.83/.htpasswd_test
+403   277B   http://10.10.188.83/.htpasswds
+403   277B   http://10.10.188.83/.httr-oauth
+403   277B   http://10.10.188.83/.php
+200     1KB  http://10.10.188.83/admin.php
+302     2KB  http://10.10.188.83/admin_edit.php    -> REDIRECTS TO: index.php
+200     1KB  http://10.10.188.83/books.php
+200   948B   http://10.10.188.83/cart.php
+200     1KB  http://10.10.188.83/contact.php
+200   457B   http://10.10.188.83/controllers/
+301   315B   http://10.10.188.83/database    -> REDIRECTS TO: http://10.10.188.83/database/
+200   497B   http://10.10.188.83/database/
+200   511B   http://10.10.188.83/functions/
+301   316B   http://10.10.188.83/functions    -> REDIRECTS TO: http://10.10.188.83/functions/
+200   116B   http://10.10.188.83/README.md
+403   277B   http://10.10.188.83/server-status
+403   277B   http://10.10.188.83/server-status/
+301   315B   http://10.10.188.83/template    -> REDIRECTS TO: http://10.10.188.83/template/
+200   475B   http://10.10.188.83/template/
+200    78B   http://10.10.188.83/verify.php?id=1&confirm_hash=

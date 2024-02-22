@@ -1,0 +1,32 @@
+# Nmap 7.94SVN scan initiated Mon Jan 29 20:31:37 2024 as: nmap -sC -p21,80,10000,55007 -oN zcan-nmap-port -Pn 10.10.38.132
+Nmap scan report for 10.10.38.132
+Host is up (0.33s latency).
+
+PORT      STATE SERVICE
+21/tcp    open  ftp
+|_ftp-anon: Anonymous FTP login allowed (FTP code 230)
+| ftp-syst: 
+|   STAT: 
+| FTP server status:
+|      Connected to ::ffff:10.8.15.121
+|      Logged in as ftp
+|      TYPE: ASCII
+|      No session bandwidth limit
+|      Session timeout in seconds is 300
+|      Control connection is plain text
+|      Data connections will be plain text
+|      At session startup, client count was 3
+|      vsFTPd 3.0.3 - secure, fast, stable
+|_End of status
+80/tcp    open  http
+| http-robots.txt: 1 disallowed entry 
+|_/
+|_http-title: Apache2 Ubuntu Default Page: It works
+10000/tcp open  snet-sensor-mgmt
+| ssl-cert: Subject: commonName=*/organizationName=Webmin Webserver on Vulnerable
+| Not valid before: 2019-08-22T09:22:57
+|_Not valid after:  2024-08-20T09:22:57
+|_ssl-date: TLS randomness does not represent time
+55007/tcp open  unknown
+
+# Nmap done at Mon Jan 29 20:32:01 2024 -- 1 IP address (1 host up) scanned in 24.04 seconds

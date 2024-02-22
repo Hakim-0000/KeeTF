@@ -1,0 +1,28 @@
+# Dirsearch started Sun Jan 21 21:02:10 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://fowsniff.thm -t 50
+
+403   298B   http://fowsniff.thm/.ht_wsr.txt
+403   301B   http://fowsniff.thm/.htaccess.bak1
+403   301B   http://fowsniff.thm/.htaccess.orig
+403   303B   http://fowsniff.thm/.htaccess.sample
+403   301B   http://fowsniff.thm/.htaccess.save
+403   302B   http://fowsniff.thm/.htaccess_extra
+403   299B   http://fowsniff.thm/.htaccessBAK
+403   301B   http://fowsniff.thm/.htaccess_orig
+403   300B   http://fowsniff.thm/.htaccessOLD2
+403   299B   http://fowsniff.thm/.htaccessOLD
+403   291B   http://fowsniff.thm/.htm
+403   299B   http://fowsniff.thm/.htaccess_sc
+403   292B   http://fowsniff.thm/.html
+403   301B   http://fowsniff.thm/.htpasswd_test
+403   298B   http://fowsniff.thm/.httr-oauth
+403   297B   http://fowsniff.thm/.htpasswds
+301   313B   http://fowsniff.thm/assets    -> REDIRECTS TO: http://fowsniff.thm/assets/
+200   471B   http://fowsniff.thm/assets/
+200   507B   http://fowsniff.thm/images/
+301   313B   http://fowsniff.thm/images    -> REDIRECTS TO: http://fowsniff.thm/images/
+200     6KB  http://fowsniff.thm/LICENSE.txt
+200   774B   http://fowsniff.thm/README.txt
+200    26B   http://fowsniff.thm/robots.txt
+403   300B   http://fowsniff.thm/server-status
+200   228B   http://fowsniff.thm/security.txt
+403   301B   http://fowsniff.thm/server-status/

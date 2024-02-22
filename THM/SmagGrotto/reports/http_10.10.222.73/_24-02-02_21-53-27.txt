@@ -1,0 +1,4 @@
+# Dirsearch started Fri Feb  2 22:07:55 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.222.73 -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt
+
+301   311B   http://10.10.222.73/mail    -> REDIRECTS TO: http://10.10.222.73/mail/
+403   277B   http://10.10.222.73/server-status

@@ -1,0 +1,4 @@
+# Dirsearch started Sun Feb 11 19:08:07 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://172.20.1.43 -w /usr/share/wordlists/seclists/Discovery/Web-Content/big.txt
+
+301   316B   http://172.20.1.43/filemanager    -> REDIRECTS TO: http://172.20.1.43/filemanager/
+403   276B   http://172.20.1.43/server-status

@@ -1,0 +1,5 @@
+# Dirsearch started Mon Jan 29 21:09:47 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.38.132/ -t 50 -e php,js,html,txt,bak,aspx,jsp -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-big.txt
+
+301   313B   http://10.10.38.132/manual    -> REDIRECTS TO: http://10.10.38.132/manual/
+301   313B   http://10.10.38.132/joomla    -> REDIRECTS TO: http://10.10.38.132/joomla/
+403   300B   http://10.10.38.132/server-status

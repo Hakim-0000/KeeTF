@@ -1,0 +1,48 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://goldnertech.hv
+[+] Method:                  GET
+[+] Threads:                 50
+[+] Wordlist:                /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-small.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+[2K/icons                (Status: 301) [Size: 316] [--> http://goldnertech.hv/icons/]
+[2K/%20                  (Status: 501) [Size: 312]
+[2K/4%20color%2099%20it2 (Status: 501) [Size: 312]
+[2K/privacy%20policy     (Status: 501) [Size: 312]
+[2K/msnbc%20interactive  (Status: 501) [Size: 312]
+[2K/picture%201          (Status: 501) [Size: 312]
+[2K/contact%20us         (Status: 501) [Size: 312]
+[2K/msnbc10%20section%20front%20headers (Status: 501) [Size: 312]
+[2K/case%20studies       (Status: 501) [Size: 312]
+[2K/windows%20xp         (Status: 501) [Size: 312]
+[2K/launch%20images      (Status: 501) [Size: 312]
+[2K/news%20and%20events  (Status: 501) [Size: 312]
+[2K/best-of%20amitabh    (Status: 501) [Size: 312]
+[2K/second%20life        (Status: 501) [Size: 312]
+[2K/open%20source        (Status: 501) [Size: 312]
+[2K/press%20releases     (Status: 501) [Size: 312]
+[2K/code%20monkey        (Status: 501) [Size: 312]
+[2K/picture%202          (Status: 501) [Size: 312]
+[2K/picture%203-7        (Status: 501) [Size: 312]
+[2K/standard%20component%20icons (Status: 501) [Size: 312]
+[2K/local%20settings     (Status: 501) [Size: 312]
+[2K/pure%20pwnage%20vs   (Status: 501) [Size: 312]
+[2K/about%20us           (Status: 501) [Size: 312]
+[2K/dj%20mexico%20presents%20-%20gutta%20niggas%20vol (Status: 501) [Size: 312]
+[2K/land%20rover         (Status: 501) [Size: 312]
+[2K/book%20%2d%20computer%20%2d%20perl (Status: 501) [Size: 312]
+[2K/united%20kingdom     (Status: 501) [Size: 312]
+[2K/grand%20theft%20auto (Status: 501) [Size: 312]
+[2K/mac%20filter1165397052661 (Status: 501) [Size: 312]
+[2K/extended%20html%20form%20attack (Status: 501) [Size: 312]
+
+===============================================================
+Finished
+===============================================================

@@ -1,0 +1,6 @@
+# Dirsearch started Mon Jan 22 11:30:02 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://monitored.htb -t 50 -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-big.txt
+
+404   275B   http://monitored.htb/http%3a%2f%2fwww
+404   275B   http://monitored.htb/http%3a%2f%2fyoutube
+404   275B   http://monitored.htb/http%3a%2f%2fblogs
+404   275B   http://monitored.htb/http%3a%2f%2fblog

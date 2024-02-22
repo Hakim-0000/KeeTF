@@ -1,0 +1,37 @@
+# Dirsearch started Sat Feb  3 22:03:07 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.24.143/wordpress
+
+403   277B   http://10.10.24.143/wordpress/.ht_wsr.txt
+403   277B   http://10.10.24.143/wordpress/.htaccess.bak1
+403   277B   http://10.10.24.143/wordpress/.htaccess.sample
+403   277B   http://10.10.24.143/wordpress/.htaccess.orig
+403   277B   http://10.10.24.143/wordpress/.htaccess.save
+403   277B   http://10.10.24.143/wordpress/.htaccess_extra
+403   277B   http://10.10.24.143/wordpress/.htaccess_orig
+403   277B   http://10.10.24.143/wordpress/.htaccessOLD
+403   277B   http://10.10.24.143/wordpress/.htaccess_sc
+403   277B   http://10.10.24.143/wordpress/.htaccessBAK
+403   277B   http://10.10.24.143/wordpress/.htaccessOLD2
+403   277B   http://10.10.24.143/wordpress/.htm
+403   277B   http://10.10.24.143/wordpress/.html
+403   277B   http://10.10.24.143/wordpress/.htpasswd_test
+403   277B   http://10.10.24.143/wordpress/.htpasswds
+403   277B   http://10.10.24.143/wordpress/.httr-oauth
+403   277B   http://10.10.24.143/wordpress/.php
+302     0B   http://10.10.24.143/wordpress/index.php/login/    -> REDIRECTS TO: /wordpress/wp-login.php
+200    10KB  http://10.10.24.143/wordpress/index.php
+200     7KB  http://10.10.24.143/wordpress/license.txt
+200     3KB  http://10.10.24.143/wordpress/readme.html
+301   325B   http://10.10.24.143/wordpress/wp-admin    -> REDIRECTS TO: http://10.10.24.143/wordpress/wp-admin/
+500     0B   http://10.10.24.143/wordpress/wp-config.php
+301   327B   http://10.10.24.143/wordpress/wp-content    -> REDIRECTS TO: http://10.10.24.143/wordpress/wp-content/
+200     0B   http://10.10.24.143/wordpress/wp-content/
+500     0B   http://10.10.24.143/wordpress/wp-content/plugins/hello.php
+301   328B   http://10.10.24.143/wordpress/wp-includes    -> REDIRECTS TO: http://10.10.24.143/wordpress/wp-includes/
+200   421B   http://10.10.24.143/wordpress/wp-content/upgrade/
+200   460B   http://10.10.24.143/wordpress/wp-content/uploads/
+200    84B   http://10.10.24.143/wordpress/wp-content/plugins/akismet/akismet.php
+200     0B   http://10.10.24.143/wordpress/wp-includes/rss-functions.php
+200     0B   http://10.10.24.143/wordpress/wp-cron.php
+200     4KB  http://10.10.24.143/wordpress/wp-includes/
+302     0B   http://10.10.24.143/wordpress/wp-signup.php    -> REDIRECTS TO: /wordpress/wp-login.php?action=register
+200     2KB  http://10.10.24.143/wordpress/wp-login.php

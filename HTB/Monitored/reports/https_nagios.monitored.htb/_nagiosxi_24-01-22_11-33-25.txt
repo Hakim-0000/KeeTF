@@ -1,0 +1,54 @@
+# Dirsearch started Mon Jan 22 11:34:12 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://nagios.monitored.htb/nagiosxi -t 50
+
+403   286B   https://nagios.monitored.htb/nagiosxi/.htaccess.bak1
+403   286B   https://nagios.monitored.htb/nagiosxi/.htaccess.sample
+403   286B   https://nagios.monitored.htb/nagiosxi/.htaccess.orig
+403   286B   https://nagios.monitored.htb/nagiosxi/.htaccess.save
+403   286B   https://nagios.monitored.htb/nagiosxi/.htaccess_extra
+403   286B   https://nagios.monitored.htb/nagiosxi/.htaccess_sc
+403   286B   https://nagios.monitored.htb/nagiosxi/.ht_wsr.txt
+403   286B   https://nagios.monitored.htb/nagiosxi/.htaccessBAK
+403   286B   https://nagios.monitored.htb/nagiosxi/.htaccessOLD2
+403   286B   https://nagios.monitored.htb/nagiosxi/.html
+403   286B   https://nagios.monitored.htb/nagiosxi/.htaccess_orig
+403   286B   https://nagios.monitored.htb/nagiosxi/.htm
+403   286B   https://nagios.monitored.htb/nagiosxi/.htpasswd_test
+403   286B   https://nagios.monitored.htb/nagiosxi/.htpasswds
+403   286B   https://nagios.monitored.htb/nagiosxi/.httr-oauth
+403   286B   https://nagios.monitored.htb/nagiosxi/.htaccessOLD
+403   286B   https://nagios.monitored.htb/nagiosxi/.php
+301   339B   https://nagios.monitored.htb/nagiosxi/about    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/about/
+301   341B   https://nagios.monitored.htb/nagiosxi/account    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/account/
+302    27B   https://nagios.monitored.htb/nagiosxi/account/    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/login.php?redirect=/nagiosxi/account/index.php%3f&noauth=1
+301   339B   https://nagios.monitored.htb/nagiosxi/admin    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/admin/
+302    27B   https://nagios.monitored.htb/nagiosxi/admin/    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/login.php?redirect=/nagiosxi/admin/index.php%3f&noauth=1
+302    27B   https://nagios.monitored.htb/nagiosxi/admin/index.php    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/login.php?redirect=/nagiosxi/admin/index.php%3f&noauth=1
+301   337B   https://nagios.monitored.htb/nagiosxi/api    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/api/
+403   286B   https://nagios.monitored.htb/nagiosxi/api/
+301   340B   https://nagios.monitored.htb/nagiosxi/api/v1    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/api/v1/
+200    32B   https://nagios.monitored.htb/nagiosxi/api/v1/
+200    32B   https://nagios.monitored.htb/nagiosxi/api/v1/swagger.json
+200    32B   https://nagios.monitored.htb/nagiosxi/api/v1/swagger.yaml
+200   104B   https://nagios.monitored.htb/nagiosxi/backend/
+301   340B   https://nagios.monitored.htb/nagiosxi/config    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/config/
+200     0B   https://nagios.monitored.htb/nagiosxi/config.inc.php
+302    27B   https://nagios.monitored.htb/nagiosxi/config/    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/login.php?redirect=/nagiosxi/config/index.php%3f&noauth=1
+301   336B   https://nagios.monitored.htb/nagiosxi/db    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/db/
+403   286B   https://nagios.monitored.htb/nagiosxi/db/
+301   338B   https://nagios.monitored.htb/nagiosxi/help    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/help/
+302    27B   https://nagios.monitored.htb/nagiosxi/help/    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/login.php?redirect=/nagiosxi/help/index.php%3f&noauth=1
+301   340B   https://nagios.monitored.htb/nagiosxi/images    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/images/
+403   286B   https://nagios.monitored.htb/nagiosxi/images/
+302    27B   https://nagios.monitored.htb/nagiosxi/index.php    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/login.php?redirect=/nagiosxi/index.php%3f&noauth=1
+301   342B   https://nagios.monitored.htb/nagiosxi/includes    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/includes/
+403   286B   https://nagios.monitored.htb/nagiosxi/includes/
+302    27B   https://nagios.monitored.htb/nagiosxi/index.php/login/    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/login.php?redirect=/nagiosxi/index.php/login/%3f&noauth=1
+302     0B   https://nagios.monitored.htb/nagiosxi/install.php    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/
+302     0B   https://nagios.monitored.htb/nagiosxi/install.php?profile=default    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/
+200     6KB  https://nagios.monitored.htb/nagiosxi/login.php
+301   340B   https://nagios.monitored.htb/nagiosxi/mobile    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/mobile/
+301   341B   https://nagios.monitored.htb/nagiosxi/reports    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/reports/
+301   339B   https://nagios.monitored.htb/nagiosxi/tools    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/tools/
+302    27B   https://nagios.monitored.htb/nagiosxi/tools/    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/login.php?redirect=/nagiosxi/tools/index.php%3f&noauth=1
+302     0B   https://nagios.monitored.htb/nagiosxi/upgrade.php    -> REDIRECTS TO: index.php
+301   339B   https://nagios.monitored.htb/nagiosxi/views    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/views/

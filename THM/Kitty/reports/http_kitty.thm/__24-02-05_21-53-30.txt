@@ -1,0 +1,25 @@
+# Dirsearch started Mon Feb  5 21:55:11 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://kitty.thm/
+
+403   274B   http://kitty.thm/.ht_wsr.txt
+403   274B   http://kitty.thm/.htaccess.bak1
+403   274B   http://kitty.thm/.htaccess.orig
+403   274B   http://kitty.thm/.htaccess.sample
+403   274B   http://kitty.thm/.htaccess.save
+403   274B   http://kitty.thm/.htaccess_extra
+403   274B   http://kitty.thm/.htaccess_orig
+403   274B   http://kitty.thm/.htaccess_sc
+403   274B   http://kitty.thm/.htaccessBAK
+403   274B   http://kitty.thm/.htaccessOLD
+403   274B   http://kitty.thm/.htaccessOLD2
+403   274B   http://kitty.thm/.htm
+403   274B   http://kitty.thm/.html
+403   274B   http://kitty.thm/.htpasswd_test
+403   274B   http://kitty.thm/.htpasswds
+403   274B   http://kitty.thm/.httr-oauth
+403   274B   http://kitty.thm/.php
+200     1B   http://kitty.thm/config.php
+200   512B   http://kitty.thm/index.php/login/
+302     0B   http://kitty.thm/logout.php    -> REDIRECTS TO: index.php
+200   564B   http://kitty.thm/register.php
+403   274B   http://kitty.thm/server-status/
+403   274B   http://kitty.thm/server-status

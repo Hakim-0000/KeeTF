@@ -1,0 +1,5 @@
+# Dirsearch started Sun Jan 21 21:16:15 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://fowsniff.thm -t 50 -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-big.txt
+
+301   313B   http://fowsniff.thm/images    -> REDIRECTS TO: http://fowsniff.thm/images/
+301   313B   http://fowsniff.thm/assets    -> REDIRECTS TO: http://fowsniff.thm/assets/
+403   300B   http://fowsniff.thm/server-status

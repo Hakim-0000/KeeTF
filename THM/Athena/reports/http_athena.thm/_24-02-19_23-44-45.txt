@@ -1,0 +1,19 @@
+# Dirsearch started Mon Feb 19 23:45:17 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://athena.thm
+
+403   275B   http://athena.thm/.ht_wsr.txt
+403   275B   http://athena.thm/.htaccess.save
+403   275B   http://athena.thm/.htaccess_orig
+403   275B   http://athena.thm/.htaccess_sc
+403   275B   http://athena.thm/.htaccess.sample
+403   275B   http://athena.thm/.htaccess.orig
+403   275B   http://athena.thm/.htaccessOLD
+403   275B   http://athena.thm/.htm
+403   275B   http://athena.thm/.htaccess.bak1
+403   275B   http://athena.thm/.html
+403   275B   http://athena.thm/.htaccessBAK
+403   275B   http://athena.thm/.htaccess_extra
+403   275B   http://athena.thm/.htaccessOLD2
+403   275B   http://athena.thm/.htpasswd_test
+403   275B   http://athena.thm/.htpasswds
+403   275B   http://athena.thm/.httr-oauth
+403   275B   http://athena.thm/.php

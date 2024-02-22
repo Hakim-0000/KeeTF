@@ -1,0 +1,21 @@
+# Dirsearch started Mon Jan 29 21:15:06 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.38.132/joomla -t 50 -e php,js,html,txt,bak,aspx,jsp -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-small.txt
+
+301   323B   http://10.10.38.132/joomla/templates    -> REDIRECTS TO: http://10.10.38.132/joomla/templates/
+301   319B   http://10.10.38.132/joomla/media    -> REDIRECTS TO: http://10.10.38.132/joomla/media/
+301   321B   http://10.10.38.132/joomla/modules    -> REDIRECTS TO: http://10.10.38.132/joomla/modules/
+301   319B   http://10.10.38.132/joomla/tests    -> REDIRECTS TO: http://10.10.38.132/joomla/tests/
+301   317B   http://10.10.38.132/joomla/bin    -> REDIRECTS TO: http://10.10.38.132/joomla/bin/
+301   321B   http://10.10.38.132/joomla/plugins    -> REDIRECTS TO: http://10.10.38.132/joomla/plugins/
+301   320B   http://10.10.38.132/joomla/images    -> REDIRECTS TO: http://10.10.38.132/joomla/images/
+301   322B   http://10.10.38.132/joomla/includes    -> REDIRECTS TO: http://10.10.38.132/joomla/includes/
+301   322B   http://10.10.38.132/joomla/language    -> REDIRECTS TO: http://10.10.38.132/joomla/language/
+301   324B   http://10.10.38.132/joomla/components    -> REDIRECTS TO: http://10.10.38.132/joomla/components/
+301   319B   http://10.10.38.132/joomla/cache    -> REDIRECTS TO: http://10.10.38.132/joomla/cache/
+301   323B   http://10.10.38.132/joomla/libraries    -> REDIRECTS TO: http://10.10.38.132/joomla/libraries/
+301   326B   http://10.10.38.132/joomla/installation    -> REDIRECTS TO: http://10.10.38.132/joomla/installation/
+301   319B   http://10.10.38.132/joomla/build    -> REDIRECTS TO: http://10.10.38.132/joomla/build/
+301   317B   http://10.10.38.132/joomla/tmp    -> REDIRECTS TO: http://10.10.38.132/joomla/tmp/
+301   321B   http://10.10.38.132/joomla/layouts    -> REDIRECTS TO: http://10.10.38.132/joomla/layouts/
+301   327B   http://10.10.38.132/joomla/administrator    -> REDIRECTS TO: http://10.10.38.132/joomla/administrator/
+301   317B   http://10.10.38.132/joomla/cli    -> REDIRECTS TO: http://10.10.38.132/joomla/cli/
+301   320B   http://10.10.38.132/joomla/_files    -> REDIRECTS TO: http://10.10.38.132/joomla/_files/

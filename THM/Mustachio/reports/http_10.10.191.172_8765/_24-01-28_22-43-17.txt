@@ -1,0 +1,24 @@
+# Dirsearch started Sun Jan 28 22:43:58 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.191.172:8765 -t 50 -e php,bak,html,txt
+
+403   580B   http://10.10.191.172:8765/.ht_wsr.txt
+403   580B   http://10.10.191.172:8765/.htaccess.bak1
+403   580B   http://10.10.191.172:8765/.htaccess.orig
+403   580B   http://10.10.191.172:8765/.htaccess.sample
+403   580B   http://10.10.191.172:8765/.htaccess.save
+403   580B   http://10.10.191.172:8765/.htaccess_extra
+403   580B   http://10.10.191.172:8765/.htaccess_orig
+403   580B   http://10.10.191.172:8765/.htaccess_sc
+403   580B   http://10.10.191.172:8765/.htaccessOLD
+403   580B   http://10.10.191.172:8765/.htaccessBAK
+403   580B   http://10.10.191.172:8765/.htaccessOLD2
+403   580B   http://10.10.191.172:8765/.htpasswds
+403   580B   http://10.10.191.172:8765/.httr-oauth
+403   580B   http://10.10.191.172:8765/.htpasswd_test
+403   580B   http://10.10.191.172:8765/.htm
+403   580B   http://10.10.191.172:8765/.html
+301   194B   http://10.10.191.172:8765/assets    -> REDIRECTS TO: http://10.10.191.172:8765/assets/
+403   580B   http://10.10.191.172:8765/assets/
+301   194B   http://10.10.191.172:8765/auth    -> REDIRECTS TO: http://10.10.191.172:8765/auth/
+403   580B   http://10.10.191.172:8765/auth/
+302     0B   http://10.10.191.172:8765/auth/login.php
+302     2KB  http://10.10.191.172:8765/home.php    -> REDIRECTS TO: ../index.php

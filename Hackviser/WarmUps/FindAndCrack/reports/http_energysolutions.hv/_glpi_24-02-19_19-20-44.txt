@@ -1,0 +1,63 @@
+# Dirsearch started Mon Feb 19 19:22:35 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://energysolutions.hv/glpi
+
+301   326B   http://energysolutions.hv/glpi/js    -> REDIRECTS TO: http://energysolutions.hv/glpi/js/
+403   283B   http://energysolutions.hv/glpi/.ht_wsr.txt
+403   283B   http://energysolutions.hv/glpi/.htaccess.bak1
+403   283B   http://energysolutions.hv/glpi/.htaccess.orig
+403   283B   http://energysolutions.hv/glpi/.htaccess.save
+403   283B   http://energysolutions.hv/glpi/.htaccess_sc
+403   283B   http://energysolutions.hv/glpi/.htaccess.sample
+403   283B   http://energysolutions.hv/glpi/.htaccessOLD
+403   283B   http://energysolutions.hv/glpi/.htaccess_extra
+403   283B   http://energysolutions.hv/glpi/.htaccess_orig
+403   283B   http://energysolutions.hv/glpi/.htaccessOLD2
+403   283B   http://energysolutions.hv/glpi/.htaccessBAK
+403   283B   http://energysolutions.hv/glpi/.html
+403   283B   http://energysolutions.hv/glpi/.htpasswd_test
+403   283B   http://energysolutions.hv/glpi/.htm
+403   283B   http://energysolutions.hv/glpi/.htpasswds
+403   283B   http://energysolutions.hv/glpi/.httr-oauth
+403   283B   http://energysolutions.hv/glpi/.php
+301   328B   http://energysolutions.hv/glpi/ajax    -> REDIRECTS TO: http://energysolutions.hv/glpi/ajax/
+200   706B   http://energysolutions.hv/glpi/babel.config.js
+301   327B   http://energysolutions.hv/glpi/bin    -> REDIRECTS TO: http://energysolutions.hv/glpi/bin/
+200   459B   http://energysolutions.hv/glpi/bin/
+200    40KB  http://energysolutions.hv/glpi/CHANGELOG.md
+301   330B   http://energysolutions.hv/glpi/config    -> REDIRECTS TO: http://energysolutions.hv/glpi/config/
+200   488B   http://energysolutions.hv/glpi/config/
+200     2KB  http://energysolutions.hv/glpi/CONTRIBUTING.md
+301   327B   http://energysolutions.hv/glpi/css    -> REDIRECTS TO: http://energysolutions.hv/glpi/css/
+301   329B   http://energysolutions.hv/glpi/files    -> REDIRECTS TO: http://energysolutions.hv/glpi/files/
+200   616B   http://energysolutions.hv/glpi/files/
+301   327B   http://energysolutions.hv/glpi/inc    -> REDIRECTS TO: http://energysolutions.hv/glpi/inc/
+200     0B   http://energysolutions.hv/glpi/inc/
+301   331B   http://energysolutions.hv/glpi/install    -> REDIRECTS TO: http://energysolutions.hv/glpi/install/
+200   682B   http://energysolutions.hv/glpi/INSTALL.md
+200     0B   http://energysolutions.hv/glpi/install/
+200     0B   http://energysolutions.hv/glpi/install/index.php?upgrade/
+200   940B   http://energysolutions.hv/glpi/js/
+301   327B   http://energysolutions.hv/glpi/lib    -> REDIRECTS TO: http://energysolutions.hv/glpi/lib/
+200     0B   http://energysolutions.hv/glpi/lib/
+200    34KB  http://energysolutions.hv/glpi/LICENSE
+301   328B   http://energysolutions.hv/glpi/pics    -> REDIRECTS TO: http://energysolutions.hv/glpi/pics/
+301   331B   http://energysolutions.hv/glpi/plugins    -> REDIRECTS TO: http://energysolutions.hv/glpi/plugins/
+200   463B   http://energysolutions.hv/glpi/plugins/
+301   330B   http://energysolutions.hv/glpi/public    -> REDIRECTS TO: http://energysolutions.hv/glpi/public/
+200   452B   http://energysolutions.hv/glpi/public/
+200     5KB  http://energysolutions.hv/glpi/README.md
+301   327B   http://energysolutions.hv/glpi/src    -> REDIRECTS TO: http://energysolutions.hv/glpi/src/
+200   101B   http://energysolutions.hv/glpi/status.php
+200     8KB  http://energysolutions.hv/glpi/src/
+301   333B   http://energysolutions.hv/glpi/templates    -> REDIRECTS TO: http://energysolutions.hv/glpi/templates/
+200   680B   http://energysolutions.hv/glpi/templates/
+200     0B   http://energysolutions.hv/glpi/vendor/autoload.php
+200     0B   http://energysolutions.hv/glpi/vendor/composer/autoload_files.php
+200     0B   http://energysolutions.hv/glpi/vendor/composer/autoload_real.php
+200     0B   http://energysolutions.hv/glpi/vendor/composer/autoload_namespaces.php
+200     0B   http://energysolutions.hv/glpi/vendor/composer/autoload_static.php
+200     0B   http://energysolutions.hv/glpi/vendor/composer/autoload_classmap.php
+200     1KB  http://energysolutions.hv/glpi/vendor/composer/LICENSE
+200     0B   http://energysolutions.hv/glpi/vendor/composer/autoload_psr4.php
+200     0B   http://energysolutions.hv/glpi/vendor/composer/ClassLoader.php
+200   860B   http://energysolutions.hv/glpi/vendor/
+200   185KB  http://energysolutions.hv/glpi/vendor/composer/installed.json

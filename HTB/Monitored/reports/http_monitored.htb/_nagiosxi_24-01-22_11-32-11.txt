@@ -1,0 +1,15 @@
+# Dirsearch started Mon Jan 22 11:32:47 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://monitored.htb/nagiosxi -t 50
+
+301   327B   http://monitored.htb/nagiosxi/%3f/    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/?/
+301   326B   http://monitored.htb/nagiosxi/%2e%2e//google.com    -> REDIRECTS TO: https://nagios.monitored.htb/google.com
+200    32B   http://monitored.htb/nagiosxi/api/v1/swagger.yaml
+200    32B   http://monitored.htb/nagiosxi/api/v1/
+200    32B   http://monitored.htb/nagiosxi/api/v1/swagger.json
+301   343B   http://monitored.htb/nagiosxi/axis//happyaxis.jsp    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/axis/happyaxis.jsp
+301   348B   http://monitored.htb/nagiosxi/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/axis2-web/HappyAxis.jsp
+301   354B   http://monitored.htb/nagiosxi/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/axis2/axis2-web/HappyAxis.jsp
+301   376B   http://monitored.htb/nagiosxi/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/Citrix/AccessPlatform/auth/clientscripts/cookies.js
+301   366B   http://monitored.htb/nagiosxi/engine/classes/swfupload//swfupload_f9.swf    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/engine/classes/swfupload/swfupload_f9.swf
+301   363B   http://monitored.htb/nagiosxi/engine/classes/swfupload//swfupload.swf    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/engine/classes/swfupload/swfupload.swf
+301   351B   http://monitored.htb/nagiosxi/extjs/resources//charts.swf    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/extjs/resources/charts.swf
+301   361B   http://monitored.htb/nagiosxi/html/js/misc/swfupload//swfupload.swf    -> REDIRECTS TO: https://nagios.monitored.htb/nagiosxi/html/js/misc/swfupload/swfupload.swf

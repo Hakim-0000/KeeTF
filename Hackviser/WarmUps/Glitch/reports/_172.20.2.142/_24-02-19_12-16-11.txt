@@ -1,0 +1,11 @@
+# Dirsearch started Mon Feb 19 12:17:29 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u 172.20.2.142
+
+501   310B   http://172.20.2.142/admin%20/
+301   314B   http://172.20.2.142/icons    -> REDIRECTS TO: http://172.20.2.142/icons/
+501   312B   http://172.20.2.142/login.wdm%20
+501   310B   http://172.20.2.142/New%20folder%20(2)
+501   310B   http://172.20.2.142/New%20Folder
+501   312B   http://172.20.2.142/phpliteadmin%202.php
+501   310B   http://172.20.2.142/Read%20Me.txt
+400   304B   http://172.20.2.142/remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd
+400   304B   http://172.20.2.142/remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession

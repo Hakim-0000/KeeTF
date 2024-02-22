@@ -1,0 +1,4 @@
+# Dirsearch started Tue Jan 23 13:40:02 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.174.70/poem -w /usr/share/wordlists/seclists/Discovery/Web-Content/common.txt
+
+301     0B   http://10.10.174.70/poem/index.html    -> REDIRECTS TO: ./
+301     0B   http://10.10.174.70/poem/render/https://www.google.com    -> REDIRECTS TO: /poem/render/https:/www.google.com

@@ -1,0 +1,4 @@
+# Dirsearch started Fri Feb  2 21:47:05 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.222.73 -w /usr/share/wordlists/dirb/common.txt
+
+301   311B   http://10.10.222.73/mail    -> REDIRECTS TO: http://10.10.222.73/mail/
+403   277B   http://10.10.222.73/server-status

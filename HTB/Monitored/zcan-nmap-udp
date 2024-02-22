@@ -1,0 +1,13 @@
+# Nmap 7.94SVN scan initiated Mon Jan 22 11:56:41 2024 as: nmap -sV -sU -oN zcan-nmap-udp 10.10.11.248
+Nmap scan report for monitored.htb (10.10.11.248)
+Host is up (0.046s latency).
+Not shown: 996 closed udp ports (port-unreach)
+PORT    STATE         SERVICE VERSION
+68/udp  open|filtered dhcpc
+123/udp open          ntp     NTP v4 (unsynchronized)
+161/udp open          snmp    SNMPv1 server; net-snmp SNMPv3 server (public)
+162/udp open          snmp    net-snmp; net-snmp SNMPv3 server
+Service Info: Host: monitored
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Jan 22 12:16:32 2024 -- 1 IP address (1 host up) scanned in 1191.32 seconds

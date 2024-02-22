@@ -1,0 +1,6 @@
+﻿"Name";"Status";"Manufacturers";"Locations";"Model";
+"Router-01";"in use";"Cisco Systems";"HQ";"4000 Series";
+"Router-02";"in use";"Cisco Systems";"HQ";"4000 Series";
+"Router-03";"in use";"";"HQ";"4000 Series";
+"Switch-01";"in use";"Cisco Systems";"HQ";"Catalyst 9300";
+"Switch-02";"in use";"Cisco Systems";"HQ";"Catalyst 9300";

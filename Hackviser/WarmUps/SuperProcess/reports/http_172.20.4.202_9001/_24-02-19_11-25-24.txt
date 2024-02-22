@@ -1,0 +1,5 @@
+# Dirsearch started Mon Feb 19 11:26:21 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://172.20.4.202:9001
+
+301   142B   http://172.20.4.202:9001/%2e%2e;/test    -> REDIRECTS TO: http://0.0.0.0/../
+301   142B   http://172.20.4.202:9001/..;/    -> REDIRECTS TO: http://0.0.0.0/../
+301   142B   http://172.20.4.202:9001/images    -> REDIRECTS TO: http://0.0.0.0/images/

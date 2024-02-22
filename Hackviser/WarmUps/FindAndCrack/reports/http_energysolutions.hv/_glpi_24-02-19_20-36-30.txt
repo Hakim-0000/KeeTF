@@ -1,0 +1,22 @@
+# Dirsearch started Mon Feb 19 20:39:20 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://energysolutions.hv/glpi -w /usr/share/wordlists/seclists/Discovery/Web-Content/big.txt
+
+200    34KB  http://energysolutions.hv/glpi/LICENSE
+301   328B   http://energysolutions.hv/glpi/ajax    -> REDIRECTS TO: http://energysolutions.hv/glpi/ajax/
+301   327B   http://energysolutions.hv/glpi/bin    -> REDIRECTS TO: http://energysolutions.hv/glpi/bin/
+301   330B   http://energysolutions.hv/glpi/config    -> REDIRECTS TO: http://energysolutions.hv/glpi/config/
+301   327B   http://energysolutions.hv/glpi/css    -> REDIRECTS TO: http://energysolutions.hv/glpi/css/
+301   329B   http://energysolutions.hv/glpi/files    -> REDIRECTS TO: http://energysolutions.hv/glpi/files/
+301   329B   http://energysolutions.hv/glpi/front    -> REDIRECTS TO: http://energysolutions.hv/glpi/front/
+301   327B   http://energysolutions.hv/glpi/inc    -> REDIRECTS TO: http://energysolutions.hv/glpi/inc/
+301   331B   http://energysolutions.hv/glpi/install    -> REDIRECTS TO: http://energysolutions.hv/glpi/install/
+301   326B   http://energysolutions.hv/glpi/js    -> REDIRECTS TO: http://energysolutions.hv/glpi/js/
+301   327B   http://energysolutions.hv/glpi/lib    -> REDIRECTS TO: http://energysolutions.hv/glpi/lib/
+301   331B   http://energysolutions.hv/glpi/locales    -> REDIRECTS TO: http://energysolutions.hv/glpi/locales/
+301   335B   http://energysolutions.hv/glpi/marketplace    -> REDIRECTS TO: http://energysolutions.hv/glpi/marketplace/
+301   328B   http://energysolutions.hv/glpi/pics    -> REDIRECTS TO: http://energysolutions.hv/glpi/pics/
+301   331B   http://energysolutions.hv/glpi/plugins    -> REDIRECTS TO: http://energysolutions.hv/glpi/plugins/
+301   330B   http://energysolutions.hv/glpi/public    -> REDIRECTS TO: http://energysolutions.hv/glpi/public/
+301   329B   http://energysolutions.hv/glpi/sound    -> REDIRECTS TO: http://energysolutions.hv/glpi/sound/
+301   327B   http://energysolutions.hv/glpi/src    -> REDIRECTS TO: http://energysolutions.hv/glpi/src/
+301   333B   http://energysolutions.hv/glpi/templates    -> REDIRECTS TO: http://energysolutions.hv/glpi/templates/
+301   330B   http://energysolutions.hv/glpi/vendor    -> REDIRECTS TO: http://energysolutions.hv/glpi/vendor/

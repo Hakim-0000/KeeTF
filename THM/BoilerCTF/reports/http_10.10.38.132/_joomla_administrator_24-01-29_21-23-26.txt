@@ -1,0 +1,10 @@
+# Dirsearch started Mon Jan 29 21:23:44 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.38.132/joomla/administrator -t 50 -e php,js,html,txt,bak,aspx,jsp -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-small.txt
+
+301   337B   http://10.10.38.132/joomla/administrator/templates    -> REDIRECTS TO: http://10.10.38.132/joomla/administrator/templates/
+301   335B   http://10.10.38.132/joomla/administrator/modules    -> REDIRECTS TO: http://10.10.38.132/joomla/administrator/modules/
+301   332B   http://10.10.38.132/joomla/administrator/help    -> REDIRECTS TO: http://10.10.38.132/joomla/administrator/help/
+301   336B   http://10.10.38.132/joomla/administrator/includes    -> REDIRECTS TO: http://10.10.38.132/joomla/administrator/includes/
+301   336B   http://10.10.38.132/joomla/administrator/language    -> REDIRECTS TO: http://10.10.38.132/joomla/administrator/language/
+301   338B   http://10.10.38.132/joomla/administrator/components    -> REDIRECTS TO: http://10.10.38.132/joomla/administrator/components/
+301   333B   http://10.10.38.132/joomla/administrator/cache    -> REDIRECTS TO: http://10.10.38.132/joomla/administrator/cache/
+301   332B   http://10.10.38.132/joomla/administrator/logs    -> REDIRECTS TO: http://10.10.38.132/joomla/administrator/logs/

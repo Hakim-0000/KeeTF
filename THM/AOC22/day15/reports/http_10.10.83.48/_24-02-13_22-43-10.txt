@@ -1,0 +1,27 @@
+# Dirsearch started Tue Feb 13 22:45:11 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.83.48
+
+403   312B   http://10.10.83.48/%2e%2e//google.com
+404     1KB  http://10.10.83.48/+CSCOE+/logon.html
+404     1KB  http://10.10.83.48/+CSCOT+/oem
+404     1KB  http://10.10.83.48/+CSCOE+/session_password.html
+404     1KB  http://10.10.83.48/+CSCOT+/translation
+404     1KB  http://10.10.83.48/+CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../
+403   312B   http://10.10.83.48/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+404     1KB  http://10.10.83.48/+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua
+404     1KB  http://10.10.83.48/.config/psi+/profiles/default/accounts.xml
+403   312B   http://10.10.83.48/\..\..\..\..\..\..\..\..\..\etc\passwd
+404     1KB  http://10.10.83.48/bitrix/web.config
+403   312B   http://10.10.83.48/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+404     1KB  http://10.10.83.48/cms/Web.config
+200     3KB  http://10.10.83.48/error/
+200     3KB  http://10.10.83.48/error
+404     1KB  http://10.10.83.48/examples/jsp/%252e%252e/%252e%252e/manager/html/
+200    31KB  http://10.10.83.48/favicon.ico
+404     1KB  http://10.10.83.48/lang/web.config
+404     1KB  http://10.10.83.48/modules/web.config
+404     1KB  http://10.10.83.48/plugins/web.config
+200     2KB  http://10.10.83.48/privacy
+200     7B   http://10.10.83.48/test.txt
+404     1KB  http://10.10.83.48/typo3conf/ext/static_info_tables/ext_tables_static+adt-orig.sql
+404     1KB  http://10.10.83.48/typo3conf/ext/static_info_tables/ext_tables_static+adt.sql
+404     1KB  http://10.10.83.48/web.config

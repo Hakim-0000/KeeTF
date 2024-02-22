@@ -1,0 +1,18 @@
+# Dirsearch started Fri Feb  2 09:44:42 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://127.0.0.1:3000 -w /usr/share/wordlists/dirb/common.txt
+
+500     3KB  http://127.0.0.1:3000/api
+500     3KB  http://127.0.0.1:3000/apis
+301   179B   http://127.0.0.1:3000/assets    -> REDIRECTS TO: /assets/
+200    11KB  http://127.0.0.1:3000/ftp
+500     1KB  http://127.0.0.1:3000/profile
+200     6KB  http://127.0.0.1:3000/promotion
+500     3KB  http://127.0.0.1:3000/redirect
+500     3KB  http://127.0.0.1:3000/rest
+500     3KB  http://127.0.0.1:3000/restore
+500     3KB  http://127.0.0.1:3000/restored
+500     3KB  http://127.0.0.1:3000/restricted
+500     3KB  http://127.0.0.1:3000/restaurants
+200    28B   http://127.0.0.1:3000/robots.txt
+200   792B   http://127.0.0.1:3000/snippets
+200    10MB  http://127.0.0.1:3000/Video
+200    10MB  http://127.0.0.1:3000/video

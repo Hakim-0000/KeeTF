@@ -1,0 +1,22 @@
+# Dirsearch started Sat Feb 10 21:59:26 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://valley.thm
+
+403   275B   http://valley.thm/.ht_wsr.txt
+403   275B   http://valley.thm/.htaccess.bak1
+403   275B   http://valley.thm/.htaccess.orig
+403   275B   http://valley.thm/.htaccess.sample
+403   275B   http://valley.thm/.htaccess.save
+403   275B   http://valley.thm/.htaccess_extra
+403   275B   http://valley.thm/.htaccess_orig
+403   275B   http://valley.thm/.htaccess_sc
+403   275B   http://valley.thm/.htaccessBAK
+403   275B   http://valley.thm/.htaccessOLD
+403   275B   http://valley.thm/.htaccessOLD2
+403   275B   http://valley.thm/.html
+403   275B   http://valley.thm/.htm
+403   275B   http://valley.thm/.htpasswd_test
+403   275B   http://valley.thm/.htpasswds
+403   275B   http://valley.thm/.httr-oauth
+301   310B   http://valley.thm/gallery    -> REDIRECTS TO: http://valley.thm/gallery/
+403   275B   http://valley.thm/server-status
+403   275B   http://valley.thm/server-status/
+301   309B   http://valley.thm/static    -> REDIRECTS TO: http://valley.thm/static/

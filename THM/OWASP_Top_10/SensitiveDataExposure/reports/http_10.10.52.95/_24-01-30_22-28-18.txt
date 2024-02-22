@@ -1,0 +1,78 @@
+# Dirsearch started Tue Jan 30 22:29:30 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.52.95 -t 50
+
+403   276B   http://10.10.52.95/.ht_wsr.txt
+403   276B   http://10.10.52.95/.htaccess.bak1
+403   276B   http://10.10.52.95/.htaccess.save
+403   276B   http://10.10.52.95/.htaccess.sample
+403   276B   http://10.10.52.95/.htaccess.orig
+403   276B   http://10.10.52.95/.htaccess_extra
+403   276B   http://10.10.52.95/.htaccessOLD
+403   276B   http://10.10.52.95/.htaccess_sc
+403   276B   http://10.10.52.95/.htaccess_orig
+403   276B   http://10.10.52.95/.htaccessOLD2
+403   276B   http://10.10.52.95/.htaccessBAK
+403   276B   http://10.10.52.95/.htm
+403   276B   http://10.10.52.95/.htpasswds
+403   276B   http://10.10.52.95/.htpasswd_test
+403   276B   http://10.10.52.95/.html
+403   276B   http://10.10.52.95/.httr-oauth
+403   276B   http://10.10.52.95/.php
+301   308B   http://10.10.52.95/api    -> REDIRECTS TO: http://10.10.52.95/api/
+404    34B   http://10.10.52.95/api/spec/swagger.json
+404    34B   http://10.10.52.95/api/login.json
+404    34B   http://10.10.52.95/api/snapshots
+404    34B   http://10.10.52.95/api/proxy
+404    34B   http://10.10.52.95/api/swagger/static/index.html
+404    34B   http://10.10.52.95/api/swagger-ui.html
+404    34B   http://10.10.52.95/api/swagger.yml
+404    34B   http://10.10.52.95/api/swagger/swagger
+404    34B   http://10.10.52.95/api/swagger/index.html
+404    34B   http://10.10.52.95/api/timelion/run
+404    34B   http://10.10.52.95/api/v1/
+404    34B   http://10.10.52.95/api/v2/
+404    34B   http://10.10.52.95/api/application.wadl
+404    34B   http://10.10.52.95/api/swagger.json
+404    34B   http://10.10.52.95/api/swagger.yaml
+404    34B   http://10.10.52.95/api/docs
+404    34B   http://10.10.52.95/api/docs/
+404    34B   http://10.10.52.95/api/v4
+404    34B   http://10.10.52.95/api/apidocs/swagger.json
+404    34B   http://10.10.52.95/api/swagger/ui/index
+404    34B   http://10.10.52.95/api/apidocs
+404    34B   http://10.10.52.95/api/index.html
+404    34B   http://10.10.52.95/api/batch
+404    34B   http://10.10.52.95/api/_swagger_/
+404    34B   http://10.10.52.95/api/v2
+404    34B   http://10.10.52.95/api/v2/swagger.yaml
+404    34B   http://10.10.52.95/api/vendor/phpunit/phpunit/phpunit
+404    34B   http://10.10.52.95/api/v3
+404    34B   http://10.10.52.95/api/profile
+404    34B   http://10.10.52.95/api/v2/helpdesk/discover
+404    34B   http://10.10.52.95/api/v1/swagger.yaml
+404    34B   http://10.10.52.95/api/2/explore/
+404    34B   http://10.10.52.95/api/2/issue/createmeta
+404    34B   http://10.10.52.95/api/jsonws/invoke
+404    34B   http://10.10.52.95/api/config
+404    34B   http://10.10.52.95/api/whoami
+404    34B   http://10.10.52.95/api/swagger
+404    34B   http://10.10.52.95/api/v1
+404    34B   http://10.10.52.95/api/__swagger__/
+404    34B   http://10.10.52.95/api/cask/graphql
+404    34B   http://10.10.52.95/api/v2/swagger.json
+404    34B   http://10.10.52.95/api/version
+404    34B   http://10.10.52.95/api/jsonws
+404    34B   http://10.10.52.95/api/error_log
+404    34B   http://10.10.52.95/api/package_search/v4/documentation
+404    34B   http://10.10.52.95/api/v1/swagger.json
+404    34B   http://10.10.52.95/api/api
+404    34B   http://10.10.52.95/api/api-docs
+404    34B   http://10.10.52.95/api/
+301   311B   http://10.10.52.95/assets    -> REDIRECTS TO: http://10.10.52.95/assets/
+200   522B   http://10.10.52.95/assets/
+301   312B   http://10.10.52.95/console    -> REDIRECTS TO: http://10.10.52.95/console/
+302     0B   http://10.10.52.95/console/    -> REDIRECTS TO: /login?response=unauthorised
+200   143KB  http://10.10.52.95/favicon.ico
+301   310B   http://10.10.52.95/login    -> REDIRECTS TO: http://10.10.52.95/login/
+200   609B   http://10.10.52.95/login/
+403   276B   http://10.10.52.95/server-status/
+403   276B   http://10.10.52.95/server-status

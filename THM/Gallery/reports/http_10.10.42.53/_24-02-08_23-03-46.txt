@@ -1,0 +1,22 @@
+# Dirsearch started Thu Feb  8 23:07:26 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.42.53
+
+403   276B   http://10.10.42.53/.htaccess_orig
+403   276B   http://10.10.42.53/.htaccessBAK
+403   276B   http://10.10.42.53/.htaccess_extra
+403   276B   http://10.10.42.53/.htaccessOLD2
+403   276B   http://10.10.42.53/.htaccess.orig
+403   276B   http://10.10.42.53/.htaccess_sc
+403   276B   http://10.10.42.53/.htaccess.save
+403   276B   http://10.10.42.53/.htaccess.sample
+403   276B   http://10.10.42.53/.htaccessOLD
+403   276B   http://10.10.42.53/.ht_wsr.txt
+403   276B   http://10.10.42.53/.htaccess.bak1
+403   276B   http://10.10.42.53/.htm
+403   276B   http://10.10.42.53/.html
+403   276B   http://10.10.42.53/.htpasswd_test
+403   276B   http://10.10.42.53/.htpasswds
+403   276B   http://10.10.42.53/.httr-oauth
+403   276B   http://10.10.42.53/.php
+301   312B   http://10.10.42.53/gallery    -> REDIRECTS TO: http://10.10.42.53/gallery/
+403   276B   http://10.10.42.53/server-status/
+403   276B   http://10.10.42.53/server-status

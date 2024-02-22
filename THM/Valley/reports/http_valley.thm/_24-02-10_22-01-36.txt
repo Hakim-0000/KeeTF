@@ -1,0 +1,6 @@
+# Dirsearch started Sat Feb 10 22:16:41 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://valley.thm -e txt,php,aspx,bak,jsp,html -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt
+
+301   310B   http://valley.thm/gallery    -> REDIRECTS TO: http://valley.thm/gallery/
+301   309B   http://valley.thm/static    -> REDIRECTS TO: http://valley.thm/static/
+301   310B   http://valley.thm/pricing    -> REDIRECTS TO: http://valley.thm/pricing/
+403   275B   http://valley.thm/server-status

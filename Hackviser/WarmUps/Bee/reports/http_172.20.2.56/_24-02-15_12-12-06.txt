@@ -1,0 +1,23 @@
+# Dirsearch started Thu Feb 15 12:13:50 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://172.20.2.56
+
+403   276B   http://172.20.2.56/.ht_wsr.txt
+403   276B   http://172.20.2.56/.htaccess.bak1
+403   276B   http://172.20.2.56/.htaccess.orig
+403   276B   http://172.20.2.56/.htaccess.sample
+403   276B   http://172.20.2.56/.htaccess.save
+403   276B   http://172.20.2.56/.htaccess_extra
+403   276B   http://172.20.2.56/.htaccess_sc
+403   276B   http://172.20.2.56/.htaccess_orig
+403   276B   http://172.20.2.56/.htaccessBAK
+403   276B   http://172.20.2.56/.htaccessOLD2
+403   276B   http://172.20.2.56/.htaccessOLD
+403   276B   http://172.20.2.56/.htm
+403   276B   http://172.20.2.56/.html
+403   276B   http://172.20.2.56/.htpasswd_test
+403   276B   http://172.20.2.56/.htpasswds
+403   276B   http://172.20.2.56/.httr-oauth
+403   276B   http://172.20.2.56/.php
+301   311B   http://172.20.2.56/assets    -> REDIRECTS TO: http://172.20.2.56/assets/
+200   478B   http://172.20.2.56/assets/
+403   276B   http://172.20.2.56/server-status
+403   276B   http://172.20.2.56/server-status/

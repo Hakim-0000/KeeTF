@@ -1,0 +1,11 @@
+dapat creds dari .pcap
+	- helpdesk:cH4nG3M3_n0w
+	- digunakan di development.smag.thm
+	- revshell setelah login
+
+dapat ssh pubkey di /opt/backups
+	- setelah cek /etc/crontab ternyata isi file nya dimasukkan ke authorized_keys
+	- buat key sendiri dengan cara `ssh-keygen -t rsa`
+	- copy isi dari .pub yang kita buat, dan echo ke fiel .pub.backup di server
+	- echo "isi_dari_rsa_pub_yang_dibuat" > /opt/.backups/jake_id_rsa.pub.backup
+	- login dengan cara `ssh -i rsa_private_kita john@smag.thm`
